@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      version="XHTML+RDFa 1.0"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:dctype="http://purl.org/dc/dcmitype/"
+      xmlns:xmls="http://www.w3.org/2001/XMLSchema#"
+      xmlns:cv="http://purl.org/captsolo/resume-rdf/0.2/cv#"
+      xmlns:res="http://kaste.lv/~captsolo/semweb/resume/base.rdfs#"
+      xmlns:tayloj="http://www.cs.rpi.edu/~tayloj/#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:bib="http://purl.org/ontology/bibo/"
+      xml:lang="en-US">
+  <head>
+    <title property="dc:title">Joshua Taylor, Curriculum Vitae</title>
+    <link rel="dc:creator" href="http://www.cs.rpi.edu/~tayloj/#me"/>
+    <meta property="dc:description" content="Joshua Taylor's Curriculum Vitae. This contains: contact information; education history; work, research, and teaching experience; publications; and presentations."/>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+    <meta name="keywords" content="artificial intelligence, logic, computer science, cognitive science"/>
+    <link rel="rdf:type" href="http://purl.org/captsolo/resume-rdf/0.2/cv#CV"/>
+    <style type="text/css" media="screen">
+      html { font-family: Helvetica, sans-serif; background: rgb(240,240,240); }
+      body { background: rgb(255,250,240); color: black;
+      margin: 1em; padding: 2em; border: solid 1px black;
+      border-right: solid 3px black;
+      border-bottom: solid 3px black; }
+      dt { font-weight: bold; }
+      .address { font-style: italic; }
+      .course { font-style: italic; }
+      .system { font-weight: bold; font-style: italic; }
+      .title { font-style: italic; }
+      .volume { font-weight: bold; }
+      blockquote.abstract {}
+    </style>
+    <style type="text/css" media="print">
+      html { 
+      background: white; 
+      color: black; 
+      text-align: justify;
+      font-family: serif;
+      font-size: 80%;
+      margin-left: 10%;
+      margin-right: 10%;
+      }
+      body {
+      margin-left: 10%;
+      }
+      h1, h2 {
+      position: relative;
+      left: -10%;
+      }
+      h1 {
+      width: 111%;
+      font-size: 120%;
+      font-weight: bold;
+      border-bottom: solid 1px black;
+      }
+      h2 {
+      width: 15%;
+      font-variant: small-caps;
+      font-size: 110%;
+      font-weight: bold;
+      }
+      h3 {
+      font-style: italic; 
+      font-variant: normal;
+      font-weight: normal;
+      font-size: 100%;
+      float: left;
+      }
+      div.position p.address { 
+      float: right;
+      text-align: right;
+      font-weight: bold; 
+      }
+      div.position p {
+      clear: right;
+      }
+      div.position {
+      clear: both;
+      }
+      a {
+      text-decoration: none; 
+      color: black;
+      }
+      .title {
+      font-style: italic;
+      }
+      dl#contact dt {
+      display: none;
+      }
+      dl#contact dd {
+      padding: 0;
+      margin: 0;
+      }
+      dl#contact dd address {
+      font-style: normal;
+      margin-bottom: 1em;
+      }
+      ul#educations {
+      padding: 0;
+      list-style-type: none;
+      }
+      ul#educations li {
+      margin-top: 1em;
+      margin-bottom: 1em;
+      }
+      span#thesis_link { 
+      display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div about="[tayloj:me]">
+      <h1 property="foaf:name" content="Joshua Taylor" style="margin-top: 0;"><span property="foaf:givenname foaf:firstName">Joshua</span> <span property="foaf:surname foaf:family_name">Taylor</span></h1>
+      <span property="foaf:gender" content="male"/>
+      <dl id="contact">
+	<dt>Address</dt>
+	<dd><address><a href="http://www.cogsci.rpi.edu/research/rair/">Rensselaer AI &amp; Reasoning Laboratory</a><br/>
+	    <a href="http://www.cogsci.rpi.edu">Department of Cognitive Science</a><br/>
+	    <a href="http://www.rpi.edu/about/campustour/sagelab/index.html">Russell Sage Labs</a>, Room 1112<br/>
+	    <a href="http://www.rpi.edu">Rensselaer Polytechnic Institute</a><br/>
+	    Troy, NY 12180 USA</address></dd>
+	<dt>Email</dt>
+	<dd><a rel="foaf:mbox" href="mailto:tayloj@rpi.edu">tayloj@rpi.edu</a></dd>
+	<dt>WWW</dt>
+	<dd><a rel="foaf:homepage" href="http://www.cs.rpi.edu/~tayloj/">http://www.cs.rpi.edu/~tayloj/</a></dd>
+	<dt>Phone</dt>
+	<dd><a rel="foaf:phone" href="tel:+1-518-276-4849">(518) 276-4849</a> (Lab)</dd>
+	<dd><a rel="foaf:phone" href="tel:+1-518-429-9230">(518) 429-9230</a> (Mobile)</dd>
+      </dl>
+    </div>
+
+    <h2 id="education">Education</h2>
+    
+    <ul rel="cv:hasEducation" id="educations">
+      <li about="[_:doctorate]">
+	<span rel="cv:degreeType" resource="[res:EduDoctorate]"><a href="http://www.cs.rpi.edu/academics/grad/phd.html">Ph.D. Program</a></span> in
+	<span property="cv:eduMajor">Computer Science</span>,
+	<span property="cv:eduStartDate" content="2008-01" datatype="xmls:gYearMonth">January 2008</span>–December 2014<br/>
+	<a rel="cv:studiedIn" href="http://www.cs.rpi.edu/">Rensselaer Polytechnic Institute</a>, Troy, NY<br/>
+	<span id="dissertation_link">Dissertation: <span property="dc:title">Explorations in Fluid Logics</span></span>
+      </li>
+      <li about="[_:masters]">
+	<span rel="cv:degreeType" resource="[res:EduMaster]"><a href="http://www.cs.rpi.edu/academics/grad/ms.html">M.S. Program</a></span> in 
+	<span property="cv:eduMajor">Computer Science</span>,
+	<span property="cv:eduStartDate" content="2005-08" datatype="xmls:gYearMonth">August 2005</span>–<span property="cv:eduGradDate" content="2007-08" datatype="xmls:gYearMongth">August 2007</span><br/>
+	<a href="http://www.cs.rpi.edu/" rel="cv:studiedIn">Rensselaer Polytechnic Institute</a>, Troy, NY<br/>
+	<span about="http://www.cs.rpi.edu/~tayloj/DOCS/jat.thesis.pdf" typeof="bib:Thesis">
+	  <span rel="bib:degree" resource="[bib:degrees/ms]"/>
+	  <span property="dc:creator" content="Joshua Taylor"/>
+	  <span id="thesis_link">Thesis: <a rel="dc:hasFormat" href="http://www.cs.rpi.edu/~tayloj/DOCS/jat.thesis.pdf" property="dc:title">Provability-Based Semantic Interoperability Between Knowledgebases and Databases via Translation Graphs</a></span></span>
+      </li>
+      <li about="[_:bachelors]">
+	<span rel="cv:degreeType" resource="[res:EduBachelor]"><a href="http://www.cs.rpi.edu/academics/undergrad.html">B.S.</a></span>,
+	<span property="cv:eduMajor">Computer Science</span>, Magna Cum Laude;
+	<a href="http://www.rpi.edu/dept/catalog/restore/02-03/sohss/sohss-economics.html" property="cv:eduMinor">Economics Minor</a>,
+	<span property="cv:eduStartDate" content="2001-09" datatype="xmls:gYearMonth">September 2001</span>–<span property="cv:eduGradDate" content="2005-05" datatype="xmls:gYearMonth">May 2005</span><br/>
+	<a href="http://www.rpi.edu/" rel="cv:studiedIn">Rensselaer Polytechnic Institute</a>, Troy, NY
+      </li>
+    </ul>
+
+    <div rel="cv:hasWorkHistory">
+      <h2 id="experience">Experience</h2>
+
+      <div class="position">
+	<h3>Senior Software Engineer, <span>2014–present</span></h3>
+	<p class="address"><a href="http://www.siegetechnologies.com">Siege Technologies, LLC</a><br/>
+	  Rome, NY, USA</p>
+      </div>
+
+      <div class="position">
+	<h3>Research Engineer, <span>2011–2014</span></h3>
+	<p class="address"><a href="http://www.ainfosec.com">Assured Information Security, Inc.</a><br/>
+	  Rome, NY, USA</p>
+      </div>
+      
+      <div about="[_:RA2008]" typeof="cv:WorkHistory" class="position">
+	<h3><span property="cv:jobTitle">Graduate Research Assistant</span>,
+	  <span property="cv:startDate" datatype="xmls:gYear">2008</span>–2011</h3>
+	<p class="address"><a href="http://www.cs.rpi.edu/">Department of Computer Science</a><br/>
+	  <a href="http://www.rpi.edu/">Rensselaer Polytechnic Institute</a><br/>
+	  Troy, NY, USA</p>
+      </div>
+
+      <div about="[_:RA20052007]" typeof="cv:WorkHistory" class="position">
+	<h3><span property="cv:jobTitle">Graduate Research Assistant</span>, <span property="cv:startDate" datatype="xmls:gYear">2005</span>–<span property="cv:endDate" datatype="xmls:gYear">2007</span></h3>
+	<p class="address"><a href="http://www.cs.rpi.edu">Department of Computer Science</a><br/>
+	  <a href="http://www.rpi.edu/">Rensselaer Polytechnic Institute</a><br/>
+	  Troy, NY, USA</p>
+	<p property="cv:jobDescription">A primary developer of <a href="http://www.cogsci.rpi.edu/slate/" class="system">Slate</a>, a system for formal and informal argument mapping, for use by professionals and students in the domains of intelligence analysis and mathematics.</p>
+	<p property="cv:jobDescription">A primary developer of <a href="http://www.cogsci.rpi.edu/solomon/" class="system">Solomon</a>, an advanced question and answer dialogue system for intelligence analysts.</p>
+	<p property="cv:jobDescription">Graduate research in provability based interoperability culminated in my MS thesis, <a href="http://www.cs.rpi.edu/~tayloj/DOCS/jat.thesis.pdf" class="title">Provability-Based Semantic Interoperability Between Knowledgebases and Databases via Translation Graphs</a>, and <a href="#PBSI-OIC-2007" class="title">Provability-Based Semantic Interoperability via Translation Graphs</a>. Worked with RAIR Lab colleagues and teams from IBM, Stanford University, Pacific Northwest National Laboratories, and Oculus Inc. to achieve semantic interoperability between software systems developed for intelligence analysis, including <a href="http://www.cogsci.rpi.edu/slate" class="system">Slate</a> and <a href="http://www.cogsci.rpi.edu/solomon" class="system">Solomon</a>.</p>
+      </div>
+
+      <div about="[_:TA2006]" typeof="cv:WorkHistory" class="position">
+	<h3><span property="cv:jobTitle">Graduate Teaching Asssistant</span>,
+	  <span property="cv:startDate"	content="2006-09" datatype="xmls:gYearMonth">Fall 2006</span><span property="cv:endDate" content="2006-12" datatype="xmls:gYearMonth"/></h3>
+	<p class="address"><a href="http://www.cs.rpi.edu/">Department of Computer Science</a><br/>
+	  <a href="http://www.rpi.edu/">Rensselaer Polytechnic Institute</a><br/>
+	  Troy, NY, USA</p>
+	<p property="cv:jobDescription">Teaching assistant for <a class="course" href="http://www.cs.rpi.edu/~hollingd/ai-fall2006/">CSCI 4150, Artificial Intelligence</a> in Fall 2006. Graded student assignments, examinations, final projects, and term papers. Held office hours. Course covered techniques in AI including: search, game theory, logic, knowledge representation, and basic programming in Scheme and Prolog.</p>
+      </div>
+      
+      <div about="[_:TA2005]" typeof="cv:WorkHistory" class="position">
+	<h3><span property="cv:jobTitle">Co-lecturer for Introduction to Logic</span>,
+	  <span property="cv:startDate" content="2005-09" datatype="xmls:gYearMonth">Fall 2005</span><span property="cv:endDate" content="2005-12" datatype="xmls:gYearMonth"/></h3>
+	<p class="address"><a href="http://www.cogsci.rpi.edu/">Department of Cognitive Science</a><br/>
+	  <a href="http://www.rpi.edu/">Rensselaer Polytechnic Institute</a><br/>
+	  Troy, NY, USA</p>
+	<p property="cv:jobDescription">Instructed students in the use of <a href="http://www.cogsci.rpi.edu/slate" class="system">Slate</a> in <span class="course">PHIL 2140, Introduction to Logic</span>. Students learned to construct and check arguments and proofs in formal logic using <a href="http://www.cogsci.rpi.edu/slate" class="system">Slate</a>.</p>
+      </div>
+
+      <div about="[_:KPCASundaySchool]" typeof="cv:WorkHistory" class="position">
+	<h3><span property="cv:jobTitle">Sunday School Teacher</span>, <span property="cv:startDate" content="2004-01" datatype="xmls:gYearMonth">2004</span>–<span property="cv:endDate" content="2005-01" datatype="xmls:gYearMonth">2005</span></h3>
+	<p class="address"><a href="http://kpcalbany.org/">Korean Presbyterian Church of Albany</a><br/>
+	  7 Knox Drive<br/>
+	  Schenectady, NY, USA</p>
+	<p property="cv:jobDescription">Under direction of deacon responsible for junior and senior high youth group, prepared and taught weekly lessons for a group of five to fifteen students in grades 6–8.</p>
+      </div>
+
+      <div about="[_:RA2003]" typeof="cv:WorkHistory" class="position">
+	<h3><span property="cv:jobTitle">Undergraduate Research Assistant</span>,
+	  <span property="cv:startDate" datatype="xmls:gYear">2003</span>–<span property="cv:endDate" datatype="xmls:gYear">2005</span></h3>
+	<p class="address"><a href="http://www.cogsci.rpi.edu/">Department of Cognitive Science</a><br/>
+	  <a href="http://www.rpi.edu/">Rensselaer Polytechnic Institute</a><br/>
+	  Troy, NY, USA</p>
+	<p property="cv:jobDescription">Started development of <a href="http://www.cogsci.rpi.edu/slate" class="system">Slate</a>.</p>
+      </div>
+      
+      <div about="[_:TA20022005]" typeof="cv:WorkHistory" class="position">
+	<h3><span property="cv:jobTitle">Undergraduate Teaching Assistant</span>,
+	  <span property="cv:startDate" datatype="xmls:gYear">2002</span>–<span property="cv:endDate" datatype="xmls:gYear">2005</span></h3>
+	<p class="address"><a href="http://www.cogsci.rpi.edu/">Department of Cognitive Science</a><br/>
+	  <a href="http://www.rpi.edu/">Rensselaer Polytechnic Institute</a><br/>
+	  Troy, NY, USA</p>
+	<p property="cv:jobDescription">Teaching assistant for <span class="course">PHIL 2140, Introduction to Logic</span> in Fall 2002, 2003, and 2004. Graded student assignments and examinations. Held office hours. Course covered traditional propositional, predicate, and first-order logics, and introduced visual formalisms such as Peirce's existential graphs, and the RAIR Lab's <a href="http://www.cogsci.rpi.edu/slate" class="system">Slate</a>.</p>
+	<p property="cv:jobDescription">Teaching assistant for <span class="course">PHIL 4963, Intermediate Logic</span> in Spring 2005. Graded student assignments, examinations, and final projects. Held office hours. Course covered axiom systems, modal logics, soundness and completeness theorems for proof systems, and axiom independence proofs.</p>
+      </div>
+
+      <div about="[_:TA20022003]" typeof="cv:WorkHistory" class="position">
+	<h3><span property="">Undergraduate Teaching Assistant</span>,
+	  <span property="cv:startDate" datatype="xmls:gYear">2002</span>–<span property="cv:endDate" datatype="xmls:gYear">2003</span></h3>
+	<p class="address"><a href="http://www.cs.rpi.edu/">Department of Computer Science</a><br/>
+	  <a href="http://www.rpi.edu/">Rensselaer Polytechnic Institute</a><br/>
+	  Troy, NY, USA</p>
+	<p property="cv:jobDescription">Teaching assistant for <span class="course">CSCI 1190, Beginning C Programming for Engineers</span> in Fall 2003. Graded student assignments and examinations. Held office hours by appointment. Present during class to aid students with in class assignments.</p>
+	<p property="cv:jobDescription">Teaching assistant for <span class="course">CSCI 2300, Data Structures and Algorithms</span> in Spring 2002. Helped students during lab/recitation sessions with programming assignments.</p>
+      </div>
+    </div>
+    
+    <h2 id="skills">Skills</h2>
+    <dl>
+      <dt>Programming Languages</dt>
+      <dd rel="cv:hasSkill"><a about="[_:common-lisp]" rel="rdfs:seeAlso" typeof="cv:Skill" property="cv:skillName" href="http://www.lispworks.com/documentation/HyperSpec/Front/index.htm">Common Lisp</a>,
+	<a about="[_:scheme]" rel="rdfs:seeAlso" typeof="cv:Skill" property="cv:skillName" href="http://www.schemers.org/Documents/Standards/R5RS/HTML/">Scheme</a>,
+	<span typeof="cv:Skill" about="[_:C]" property="cv:skillName">C</span>, 
+	<span typeof="cv:Skill" about="[_:C-plus-plus]" property="cv:skillName">C++</span>, 
+	<span typeof="cv:Skill" about="[_:Java]" property="cv:skillName">Java</span></dd>
+      <dt>Knowledge Representation</dt>
+      <dd about="http://www.cs.rpi.edu/~tayloj/#me">
+	<a rel="foaf:pastProject" href="http://nrrc.mitre.org/NRRC/ikris.htm">IKRIS</a> Knowledge Language (<a rel="foaf:interest foaf:pastProject" href="http://www.ihmc.us/users/phayes/IKL/SPEC/SPEC.html">IKL</a>),
+	<a rel="foaf:interest" href="http://cl.tamu.edu/">Common Logic</a></dd>
+      <dt>Operating Systems</dt>
+      <dd rel="cv:hasSkill">
+	<span property="cv:skillName" typeof="cv:Skill" about="[_:osx]">MacOS X</span>,
+	<span property="cv:skillName" typeof="cv:Skill" about="[_:unix]">Unix (Linux, FreeBSD)</span>,
+	<span property="cv:skillName" typeof="cv:Skill" about="[_:windows]">Microsoft Windows 95/98/XP</span></dd>
+      <dt>Tools</dt>
+      <dd rel="cv:hasSkill">
+	<span about="[_:emacs]" typeof="cv:Skill" property="cv:skillName">Emacs</span>,
+	<span about="[_:latex]" typeof="cv:Skill" property="cv:skillName">LaTeX</span>,
+	<a about="[_:lispworks]" typeof="cv:Skill" rel="rdfs:seeAlso" property="cv:skillName" href="http://www.lispworks.com/">LispWorks</a></dd>
+    </dl>
+
+    <div id="references" style="display: none;">
+      <h2>References</h2>
+
+      <h3>Selmer Bringsjord; Professor and Advisor</h3>
+      <p class="address">
+	Department of Cognitive Science, Chair<br/>
+	Department of Computer Science, Professor<br/>
+	Rensselaer Polytechnic Institute<br/>
+	Carnegie 108<br/>
+	110 8th Street<br/>
+	Troy, NY 12180<br/>
+	(518) 276-6472<br/>
+	<a rel="foaf:mbox" href="mailto:selmer@rpi.edu">selmer@rpi.edu</a>
+      </p>
+      
+      <h3>Michael Schoelles; Research Professor</h3>
+      <p class="address">
+	Department of Cognitive Science, Research Professor<br/>
+	Rensselaer Polytechnic Institute<br/>
+	Carnegie 108<br/>
+	110 8th Street<br/>
+	Troy, NY 12180<br/>
+	(518) 276-3318<br/>
+	<a href="mailto:schoem@rpi.edu">schoem@rpi.edu</a>
+      </p>
+      
+      <h3>Andrew Shilliday; Doctoral Student</h3>
+      <p class="address">
+	Department of Computer Science<br/>
+	Rensselaer Polytechnic Institute<br/>
+	Carnegie 108<br/>
+	110 8th Street<br/>
+	Troy, NY 12180<br/>
+	(518) 276-6472<br/>
+	<a href="mailto:shilla@cs.rpi.edu">shilla@cs.rpi.edu</a>
+      </p>
+    </div>
+    
+    <h2 id="scientific_software">Scientific Software</h2>
+
+    <p about="http://www.cogsci.rpi.edu/slate">
+      <span rel="dc:type" resource="[dctype:Software]"/>
+      <span property="dc:creator dc:mediator" content="Selmer Bringsjord">S. Bringsjord</span>,
+      <span property="dc:creator" content="Andrew Shilliday">A. Shilliday</span>,
+      <span property="dc:creator" content="Joshua Taylor">J. Taylor</span>.
+      <a property="dc:title" href="http://www.cogsci.rpi.edu/slate" class="system">Slate</a>.
+      <span property="dc:description">System for Logic and Theorem Extraction; a logic-based application for assisting reasoners in the fields of Intelligence Analysis, Logic, Math, etc.</span>
+      <a href="http://www.cogsci.rpi.edu/slate/">http://www.cogsci.rpi.edu/slate/</a>.
+      <span property="dc:date" datatype="xmls:gYear">2003</span>–present.</p>
+
+    <p about="http://www.cogsci.rpi.edu/solomon">
+      <span rel="dc:type" resource="[dctype:Software]"/>
+      <span property="dc:creator" content="Selmer Bringsjord">S. Bringsjord</span>,
+      <span property="dc:creator" content="Micah Clark">M. Clark</span>,
+      <span property="dc:creator" content="Andrew Shilliday">A. Shilliday</span>,
+      <span property="dc:creator" content="Joshua Taylor">J. Taylor</span>,
+      <span property="dc:creator" content="Daniel Werner">D. Werner</span>.
+      <a href="http://www.cogsci.rpi.edu/solomon" property="dc:title" class="system">Solomon</a>.
+      <span property="dc:description">A Next-Generation Q&amp;A System.</span>
+      <a href="http://www.cogsci.rpi.edu/solomon/">http://www.cogsci.rpi.edu/solomon/</a>.
+      <span datatype="xmls:gYear" property="dc:date">2006</span>–present.</p>
+    
+    <h2 id="publications">Publications</h2>
+
+    <div about=""
+	 typeof="bib:AcademicArticle">
+      <span property="dc:language" content="en-US" xml:lang=""/>
+      <span property="dc:creator">Kara Zaffarano</span>,
+      <span property="dc:creator">Joshua Taylor</span>,
+      <span property="dc:creator">Samuel Hamilton</span>,
+      <a href="http://dx.doi.org/10.1145/2808475.2808476" class="title" property="dc:title"
+	 >A Quantitative Framework for Moving Target Defense Effectiveness Evaluation</a>.
+      In <span class="title" property="dc:title"><a href="http://mtd.mobicloud.asu.edu/">Proc. MTD'15, Second ACM Workshop on Moving Target Defense</a></span>.
+      <span datatype="xmls:gYear" property="dc:date" content="2015">October 2015</span>.
+      doi:<a href="http://dx.doi.org/10.1145/2808475.2808476">10.1145/2808475.2808476</a>.
+      <span property="bib:status" resource="[bib:status/published]"/>
+      <blockquote class="abstract" property="bib:abstract">
+	<p>Static defense has proven to be a brittle mechanism for
+	  defending against cyber attack.  Despite this, proactive
+	  defensive measures have not been widely deployed.  This is
+	  because flexible proactive defensive measures such as Moving
+	  Target Defense (MTD) have as much potential to interfere
+	  with a network's ability to support the mission as they do
+	  to defend the network.  In this paper we introduce an
+	  approach to defining and measuring MTD effects applied in a
+	  network environment to help guide MTD deployment decisions
+	  that successfully balance the potential security benefits of
+	  MTD deployment against the potential productivity costs.</p>
+      </blockquote>
+    </div>
+
+    <div about="http://dx.doi.org/10.1007/s11229-014-0424-3"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:language" content="en-US" xml:lang=""/>
+      <span property="dc:creator">N. S. Govindarajalulu</span>,
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <a href="http://dx.doi.org/10.1007/s11229-014-0424-3" class="title" property="dc:title">Proof verification and proof discovery for relativity</a>.
+      <span class="title" property="dc:title">Synthese</span>, 
+<!--      <span property="bib:volume" class="volume">2</span>(<span property="bib:issue">2</span>):<span property="bib:startPage">88</span>–<span property="bib:endPage">116</span>. -->
+      <span datatype="xmls:date" property="dc:date">April 2014</span>.
+      <span property="bib:status" resource="[bib:status/published]"/>
+      <blockquote><p/></blockquote>
+<!--      <blockquote class="abstract" property="bib:abstract"><p>After briefly explaining our ultimate educational goal with respect to reasoning (to “superteach” reasoning), and our theoretical foundation, we give an overview of some of our attempts to build and harness intelligent agents in order to reach this goal. We end with coverage of the Slate system, which inherits its power from lessons learned in connection with the engineering of its more primitive predecessors.</p></blockquote> -->
+    </div>
+
+
+    <span property="dc:creator">J. Taylor</span>,
+    <span property="dc:creator">R. T. Hall</span>.
+    <a property="dc:title" class="title">Software Analysis in the Semantic Web</a>.
+    In <span class="title">Proc. SPIE 8757, Cyber Sensing 2013</span>.
+    <span datatype="xmls:gYear" property="dc:date">2013</span>.
+    doi:<a href="http://dx.doi.org/10.1117/12.2016122">10.1117/12.2016122</a>.
+    <blockquote><p>Many approaches in software analysis, particularly
+      dynamic malware analyis, benefit greatly from the use of linked
+      data and other Semantic Web technology. In this paper, we
+      describe AIS, Inc.’s Semantic Extractor (SemEx) component from
+      the Malware Analysis and Attribution through Genetic Information
+      (MAAGI) effort, funded under DARPA’s CyberGenome program. The
+      SemEx generates OWL-based semantic models of high and low level
+      behaviors in malware samples from system call traces generated
+      by AIS’s introspective hypervisor, IntroVirt&#8482;. Within MAAGI,
+      these semantic models were used by modules that cluster malware
+      samples by functionality, and construct &#8220;genealogical&#8221; malware
+      lineages. Herein, we describe the design, implementation, and
+      use of the SemEx, as well as the C2DB, an OWL ontology used for
+      representing software behavior and
+      cyber-environments.</p></blockquote>
+
+    <span property="dc:creator">R. T. Hall</span>,
+    <span property="dc:creator">J. Taylor</span>.
+    <a property="dc:title" class="title">A Framework for Network-Wide Semantic Event Correlation</a>.
+    In <span class="title">Proc. SPIE 8757, Cyber Sensing 2013</span>.
+    <span datatype="xmls:gYear" property="dc:date">2013</span>.
+    doi:<a href="http://dx.doi.org/10.1117/12.2016126">10.1117/12.2016126</a>.
+    <blockquote><p>An increasing need for situational awareness within
+    network-deployed Systems Under Test has increased desire for
+    frameworks that facilitate system-wide data correlation and
+    analysis. Massive event streams are generated from heterogeneous
+    sensors which require tedious manual analysis. We present a
+    framework for sensor data integration and event correlation based
+    on Linked Data principles, Semantic Web reasoning technology,
+    complex event processing, and blackboard architectures. Sensor
+    data are encoded as RDF models, then processed by complex event
+    processing agents (which incorporate domain specific reasoners, as
+    well as general purpose Semantic Web reasoning techniques). Agents
+    can publish inferences on shared blackboards and generate new
+    semantic events that are fed back into the system. We present AIS,
+    Inc.’s Cyber Battlefield Training and Effectiveness Environment (CBTEE) to
+    demonstrate use of the framework.</p></blockquote>
+
+
+
+    <div about="[_:IntroducingDivineCommandRobotEthics]"
+	 typeof="bib:Chapter">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">J. Taylor</span>.
+      <a property="dc:title" class="title">Introducing Divine-Command Robot Ethics</a>.
+      In P. Lin, K. Abney, &amp; G. Bekey, eds,
+      <a href="http://mitpress.mit.edu/978-0-262-01666-7" class="title">Robot Ethics: The Ethical and Social Implications of Robotics</a>.
+      <span propety="dc:publisher">MIT Press</span>.
+      <span datatype="xmls:date" property="dc:date">2012</span>.
+      <span>ISBN 978-0-262-01666-7</span>.
+      <blockquote><p>Perhaps it is generally agreed that robots on the battlefield, especially if they have lethal power, should be ethically regulated. But in what does such regulation consist?
+Presumably in the fact that all the significant actions performed by such a robot are in accordance with some ethical code.
+But then the question arises as to <em>which</em> code.
+One possibility, a narrow one, is that the code is a set of <i>rules of engagement</i> affirmed by some nation or group.
+Another possibility is that the code is a utilitarian one represented in computational deontic logic, as explained elsewhere by Bringsjord and colleagues.
+Another possibility is likewise based on computational logic, but with a logic that captures some other mainstream ethical theory (e.g., Kantian deontology, or Ross' <q>right mix</q> direction).
+But there is  another radically different possibility that hitherto has not arrived on the scene: viz., the controlling code could be viewed by the human as coming straight from God.
+There is some very rigorous work in ethics along this line, which is known as <i>divine-command ethics</i>.
+In a world in which human fighters and the general populations supporting them often see themselves as indeed championing God's will in war, divine-command ethics is quite relevant to military robots.
+This chapter introduces divine-command ethics in the form of the computational logic <span style="font-family: cursive">LRT<sup>*</sup></span>, intended to eventually be suitable for regulating a real-world warfighting robot.</p></blockquote>
+    </div>
+    
+    <div about="http://www.cs.rpi.edu/~tayloj/DOCS/SlatePrimer_20100915.pdf"
+	 typeof="bib:Manual">
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">M. Clark</span>.
+      <a property="dc:title" class="title" href="http://www.cs.rpi.edu/~tayloj/DOCS/SlatePrimer_20100915.pdf">Getting Started with Slate</a>.
+      <span datatype="xmls:date" property="dc:date" content="2010-09-15">September 2010.</span>
+      Available online from <blockquote><a href="http://www.cs.rpi.edu/~tayloj/DOCS/SlatePrimer_20100915.pdf">http://www.cs.rpi.edu/~tayloj/DOCS/SlatePrimer_20100915.pdf</a></blockquote>
+    </div>
+
+    <div about="[_:PBSI_for_ISJR]"
+	 typeof="bib:Chapter">
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">M. Clark</span>,
+      <span property="dc:creator">S. Bringsjord</span>.
+      <a property="dc:title" class="title" href="http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/PBSIISJR.pdf">Provability-Based Semantic Interoperability for Information Sharing and Joint Reasoning</a>.
+      In L. Obrst, T. Janssen &amp; W. Ceusters, eds,
+      <a href="http://www.booksonline.iospress.nl/Content/View.aspx?piid=17686">Ontologies and Semantic Technologies for Intelligence</a>,
+      Volume 213 of <a href="http://www.booksonline.iospress.nl/Content/View.aspx?piid=9" rel="dc:isPartOf">Frontiers in Artificial Intelligence and Applications</a>,
+      <span property="bib:pageStart" datatype="xmls:integer">109</span>–<span property="bib:pageEnd" datatype="xmls:integer">128</span>.
+      <span property="dc:publisher">IOS Press</span>.
+      <span datatype="xmls:date" property="dc:date">2010</span>.
+      <span>ISBN 978-1-60750-580-8</span>.
+      <blockquote class="abstract" property="bib:abstact"><p>We describe provability-based semantic interoperability (PBSI), a framework transcending syntactic translation that enables robust, meaningful, knowledge exchange across diverse information systems.  PBSI is achieved through translation graphs that capture complex ontological relationships, and through provability-based queries.  We work through an example of automating an unmanned aerial vehicle by reasoning over information from a number of sources.</p></blockquote>
+    </div>
+    
+    <div about="http://kryten.mm.rpi.edu/philkrr_091009.pdf"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">M. Clark</span>,
+      <span property="dc:creator">J. Taylor</span>.
+      <a href="http://kryten.mm.rpi.edu/philkrr_091009.pdf">Sophisticated Knowledge Representation and Reasoning Requires Philosophy</a>.
+      In R. Hagengruber, ed., Philosophy’s Relevance in Information Science, in press.
+      Papers from the conference <a href="http://groups.uni-paderborn.de/hagengruber/pris08/">Philosophy’s Relevance in Information Science</a>.
+      <blockquote class="abstract" property="bib:abstract"><p>
+Knowledge Representation and Reasoning (KR&amp;R) is based on the idea that propositional 
+content can be rigorously represented in formal languages long the province of logic, in such 
+a way that these representations can be productively reasoned over by humans and machines; 
+and that this reasoning can be used to produce knowledge-based systems (KBSs). As such, 
+KR&amp;R is a discipline conventionally regarded to range across parts of artiﬁcial intelligence 
+(AI), computer science, and especially logic. This standard view of KR&amp;R’s participating 
+fields is correct — but dangerously incomplete. The view is incomplete because, as we explain 
+herein, sophisticated KR&amp;R must rely heavily upon philosophy. Encapsulated, the reason is 
+actually quite straightforward: Sophisticated KR&amp;R must include the representation of not 
+only simple properties, but also concepts that are routine in the formal sciences (theoretical 
+computer science, mathematics, logic, game theory, etc.), and everyday socio-cognitive concepts 
+like mendacity, deception, betrayal, and evil. Because in KR&amp;R the representation of such 
+concepts must be rigorous in order to enable machine reasoning (e.g., machine-generated and 
+machine-checked proofs that a is lying to b) over them, philosophy, devoted as it is in no small 
+part to supplying analyses of such concepts, is a crucial partner in the overall enterprise. To 
+put the point another way: When the knowledge to be represented is such as to require lengthy 
+formulas in expressive formal languages for that representation, philosophy must be involved in 
+the game. In addition, insofar as the advance of KR&amp;R must allow formalisms and processes for 
+representing and reasoning over visual propositional content, philosophy will be a key contributor 
+into the future.</p></blockquote>
+      </div>
+
+    
+    <div about="http://kryten.mm.rpi.edu/PRES/ROBOETHICSICRA09/SB_etal_RoboethicsWatICRA09.pdf"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">T. Housten</span>,
+      <span property="dc:creator">B. van Heuveln</span>,
+      <span property="dc:creator">K. Arkoudas</span>,
+      <span property="dc:creator">M. Clark</span>,
+      <span property="dc:creator">R. Wojtowicz</span>.
+      <a href="http://kryten.mm.rpi.edu/PRES/ROBOETHICSICRA09/SB_etal_RoboethicsWatICRA09.pdf" property="dc:title">Piagetian roboethics via category theory: Moving beyond mere formal operations to engineer robots whose decisions are guaranteed to be ethically correct</a>.
+      In <a href="http://www.roboethics.org/icra2009/" rel="dc:isPartOf"><span property="dc:title">Proceedings of the 2009 IEEE International Conference on Robotics and Automation (ICRA2009), Workshop on Roboethics</span></a>, IEEE Press. 
+      <span datatype="xmls:date" property="dc:date">2009</span>.
+      <span property="dc:language" content="en-US" xml:lang=""/>
+      <span property="bib:status" resource="[bib:status/published]"/>
+      <blockquote class="abstract" property="bib:abstract"><p>This is an extended abstract, not a polished paper; an approach to, rather than the results of, sustained research and development in the area of roboethics is described herein.
+	Encapsulated, the approach is to engineer ethically correct robots by giving them the capacity to reason over, rather than merely in, logical systems (where logical systems are used to formalize such things as ethical codes of conduct for warﬁghting robots).
+	This is to be accomplished by taking seriously Piaget’s position that sophisticated human thinking exceeds even abstract processes carried out in a logical system, and by exploiting category theory to render in rigorous form, suitable for mechanization, structure-preserving mappings that Bringsjord, an avowed Piagetian, sees to be central in rigorous and rational human ethical decision-making.</p></blockquote>
+    </div>
+
+    <div about="http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/CMNA08-Slate.pdf"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:creator">S. Bringsjord</span>, 
+      <span property="dc:creator">J. Taylor</span>, 
+      <span property="dc:creator">A. Shilliday</span>, 
+      <span property="dc:creator">M. Clark</span>, and
+      <span property="dc:creator">K. Arkoudas</span>.
+      <a property="dc:title" href="http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/CMNA08-Slate.pdf" class="title">Slate: An Argument-Centered Intelligent Assistant to Human Reasoners</a>.
+      In Proceedings of <a rel="dc:isPartOf" href="http://cmna.csc.liv.ac.uk/CMNA8/"><span property="dc:title">CMNA 08, 8th Workshop on Computational Models of Natural Argumentation</span></a>,
+      held in conjunction with <a href="http://www.ece.upatras.gr/ecai2008/" rel="dc:isPartOf"><span property="dc:title">ECAI 2008, 18th European Conference on Artificial Intelligence</span></a>.
+      <a href="http://www.upatras.gr/index/index/lang/en">University of Patras</a>, Patras, Greece.
+      <span datatype="xmls:date" property="dc:date" content="2008-07-21">July 21, 2008</span>.
+      <span property="dc:language" content="en-US" xml:lang=""/>
+      <span property="bib:status" resource="[bib:status/published]"/>
+      <blockquote class="abstract" property="bib:abstract"><p>We describe Slate, a logic-based, robust interactive reasoning system that allows human “pilots” to harness an ensemble of intelligent agents in order to construct, test, and express various sorts of natural argumentation. Slate empowers students and professionals in the business of producing argumentation, e.g., mathematicians, logicians, intelligence analysts, designers and producers of standardized reasoning tests. We demonstrate Slate in several examples, describe some distinctive features of the system (e.g., reading and generating natural language, immunizing human reasoners from “logical illusions”), present Slate's theoretical underpinnings, and note upcoming refinements.</p></blockquote>
+    </div>
+
+    <div about="http://kryten.mm.rpi.edu/sb_etal_agi2008.pdf"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">D. Werner</span>,
+      <span property="dc:creator">M. Clark</span>,
+      <span property="dc:creator">E. Charpentier</span>, and
+      <span property="dc:creator">A. Bringsjord</span>.
+      <a href="http://kryten.mm.rpi.edu/sb_etal_agi2008.pdf" property="dc:title" rel="dc:hasFormat" class="title">Toward Logic-Based Cognitively Robust Synthetic Characters in Digital Environments</a>.
+      <a href="http://www.agi-08.org/" rel="dc:isPartOf"><span property="dc:title">Artificial General Intelligence 2008 — Proceedings of the First AGI Conference</span></a>.
+      In the series of <a href="http://www.iospress.nl/loadtop/load.php?isbn=faia" rel="dc:isPartOf"><span property="dc:title">Frontiers in Artificial Intelligence and Applications</span></a>,
+      <span property="bib:volume" class="volume">171</span>:<span property="bib:startPage" datatype="xmls:integer">87</span>–<span property="bib:endPage" datatype="xmls:integer">98</span>.
+      <span property="dc:publisher">IOS Press</span>.
+      <span property="dc:date">2008</span>.
+      <span property="dc:language" content="en-US" xml:lang=""/>
+      <span property="bib:status" resource="[bib:status/published]"/>
+      <blockquote class="abstract" property="bib:abstract"><p>With respect to genuine cognitive faculties, present synthetic characters inhabiting online virtual worlds are, to say the least, completely impaired. Current methods aimed at the creation of “immersive” virtual worlds only avatars and NPCs the illusion of mentality and, as such, will ultimately fail. Like behaviorism, this doomed approach focuses only on the inputs and outputs of virtual characters and ignores the rich mental structures that are essential for any truly realistic social environment. While this “deceptive” tactic may be suitable so long as a human is in the driver’s seat compensating for the mental deﬁcit, truly convincing autonomous synthetic characters must possess genuine mental states, which can only result from a formal theory of mind. We report here on our attempt to invent part of such a theory, one that will enable artiﬁcial agents to have and reason about the beliefs of others, resulting in characters that can predict and manipulate the behavior of even human players. Furthermore, we present the “embodiment” of our recent successes: Eddie, a four year old child in Second Life who can reason about his own beliefs to draw conclusions in a manner that matches human children his age.</p></blockquote>
+    </div>
+
+    <div about="http://www.aaai.org/Papers/Symposia/Fall/2008/FS-08-03/FS08-03-009.pdf"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">S. Bringsjord</span>.
+      <a href="http://www.aaai.org/Papers/Symposia/Fall/2008/FS-08-03/FS08-03-009.pdf" rel="dc:hasFormat" property="dc:title" class="title">Discovery Using Heterogeneous Combined Logics</a>.
+      In <a href="http://www.aaai.org/Library/Symposia/Fall/fs08-03.php" rel="dc:isPartOf"><span property="dc:title">Papers from the 2008 AAAI Fall Symposium on Automated Scientiﬁc Discovery</span></a>,
+      <span property="dc:publisher">AAAI Press</span>, Menlo Park, CA, <span property="bib:pageStart" datatype="xmls:integer">31</span>–<span property="bib:pageEnd" datatype="xmls:integer">32</span>. 
+      Technical Report FS-08-03.
+      <blockquote class="abstract" property="bib:abstract"><p>Research in hybrid logic systems and, later, description logics, has revealed a tradeoff between the expressivity of a logical formalism, and the complexity of reasoning within that formalism. This is why, for instance, tractable inference procedures are known for certain classes of description logics and for (some) formalisms underlying knowledge representation on the Semantic Web. … Recognizing the diversity of knowledge representation systems currently in existence, the different properties of proof calculi which may be employed over these systems, and the growing need to combine inferences made under multiple logical systems, we propose the development of formalisms to govern these interactions, and call this the study of combined logics.</p></blockquote>
+    </div>
+
+    <div about="http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-299/24.pdf"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">S. Bringsjord</span>.
+      <a href="http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-299/24.pdf" rel="dc:hasFormat" property="dc:title" class="title">Toward Automated Provability-Based Semantic Interoperability between Ontologies for the Intelligence Community</a>.
+      In <a rel="dc:isPartof" href="http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-299/">Proceedings of the Second International Ontology for the Intelligence Community (OIC-2007)</a>,
+      <span property="bib:pageStart" datatype="xmls:integer">66</span>–<span property="bib:pageEnd" datatype="xmls:integer">72</span>.
+      <a rel="dc:publisher" property="dc:publisher" href="http://ceur-ws.org">CEUR Workshop Proceedings</a>.
+      <span property="dc:date" content="2007-11-28">November 28–29, 2007</span>.
+      <span property="dc:language" content="en-US" xml:lang=""/>
+      <span property="bib:status" resource="[bib:status/published]"/>
+      <blockquote class="abstract" property="bib:abstract"><p>The need for interoperability is dire: Knowledge representation systems employ ontologies that use disparate formalisms to describe related domains; to be truly useful to the intelligence community, they must meaningfully share information. Ongoing research strives toward the holy grail of complete interoperability, but has been hindered by techniques that are specialized for particular ontologies, and that lack the expressivity needed to describe complex ontological relationships. In the sequel, we describe provability-based semantic interoperability, a means to surmount these hindrances; translation graphs, one of our key formalism for describing the complex relationships among arbitrary ontologies; and ways in which these techniques might be automated.</p></blockquote>
+    </div>
+
+    <div about="http://kryten.mm.rpi.edu/jt_as_sb_PBSITG_crc.pdf"
+         id="PBSI-OIC-2007"
+         typeof="bib:AcademicArticle">
+      <span property="dc:creator" content="Joshua Taylor">Taylor, J.</span>;
+      <span property="dc:creator" content="Andrew Shilliday">Shilliday, A.</span>;
+      <span property="dc:creator" content="Selmer Bringsjord">Bringsjord, S.</span>.
+      (<span datatype="xmls:date" property="dc:date">2007</span>).
+      "<span property="dc:title" class="title">Provability-Based Semantic Interoperability Via Translation Graphs</span>".
+      <span rel="dc:isPartOf"><span property="dc:title">Advances in Conceptual Modeling – Foundations and Applications. Lecture Notes in Computer Science</span></span>
+      <span class="volume" property="bib:volume" datatype="xmls:integer">4802</span>.
+      pp. <span datatype="xmls:integer" property="bib:startPage">180</span>–<span datatype="xmls:integer" property="bib:endPage">189</span>.
+      doi:<a href="http://dx.doi.org/10.1007/978-3-540-76292-8_21">10.1007/978-3-540-76292-8_21</a>.
+      ISBN 978-3-540-76291-1.  This paper appeared in the <a rel="dc:isPartOf" href="http://www.ischool.drexel.edu/faculty/hhan/onisw2007/">2007 International Workshop on Ontologies and Information Systems for the Semantic Web (ONISW)</a>.
+      <blockquote class="abstract" property="bib:abstract"><p>Provability-based semantic interoperability (PBSI) is a kind of interoperability that transcends mere syntactic translation to allow for robust, meaningful information exchange across systems employing ontologies for which mappings or matchings may not exist, and which can be evaluated by provability-based (PB) queries. We introduce a system of translation graphs to formalize the relationships between diverse ontologies and knowledge representation and reasoning systems, and to automatically generate the translation axioms governing PB information exchange and inter-system reasoning. We demonstrate the use of translation graphs on a small number of simple systems to achieve interoperability.</p></blockquote>
+    </div>
+
+<!-- This entry is replaced by the one above, which is a better citation. 
+    <div about="http://kryten.mm.rpi.edu/jt_as_sb_PBSITG_crc.pdf"
+	 id="PBSI-OIC-2007"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">A. Shilliday</span>, and
+      <span property="dc:creator">S. Bringsjord</span>.
+      <a href="http://kryten.mm.rpi.edu/jt_as_sb_PBSITG_crc.pdf" rel="dc:hasFormat" property="dc:title" class="title">Provability-based Semantic Interoperability via Translation Graphs</a>.
+      In Proceedings of the <a rel="dc:isPartOf" href="http://www.ischool.drexel.edu/faculty/hhan/onisw2007/">2007 International Workshop on Ontologies and Information Systems for the Semantic Web (ONISW)</a>,
+      <span property="bib:startPage" datatype="xmls:integer">180</span>–<span property="bib:endPage" datatype="xmls:integer">189</span>.
+      <span datatype="xmls:date" property="dc:date" content="2007-11">November 2007</span>.
+      <span property="dc:language" content="en-US" xml:lang=""/>
+      <span property="bib:status" resource="[bib:status/published]"/>
+      <blockquote class="abstract" property="bib:abstract"><p>Provability-based semantic interoperability (PBSI) is a kind of interoperability that transcends mere syntactic translation to allow for robust, meaningful information exchange across systems employing ontologies for which mappings or matchings may not exist, and which can be evaluated by provability-based (PB) queries. We introduce a system of translation graphs to formalize the relationships between diverse ontologies and knowledge representation and reasoning systems, and to automatically generate the translation axioms governing PB information exchange and inter-system reasoning. We demonstrate the use of translation graphs on a small number of simple systems to achieve interoperability.</p></blockquote>
+    </div> -->
+
+    <div about="http://kryten.mm.rpi.edu/Bringsjord_MultiMind_ICAI07.pdf"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">K. Arkoudas</span>,
+      <span property="dc:creator">D. Mukherjee</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">M. Clark</span>, and
+      <span property="dc:creator">E. Bringsjord</span>.
+      <a href="http://kryten.mm.rpi.edu/Bringsjord_MultiMind_ICAI07.pdf" rel="dc:hasFormat" property="dc:title" class="title">The Multi-Mind Effect</a>.
+      In Proceedings of the <a rel="dc:isPartOf" href="http://www.worldacademyofscience.org/worldcomp07/ws/ICAI07"><span property="dc:title">2007 International Conference on Artificial Intelligence (ICAI)</span></a>, 
+      <span property="bib:pageStart">43</span>–<span property="bib:pageEnd">49</span>.
+      <span property="dc:publisher">CSREA Press</span>.
+      <span property="dc:date" datatype="xmls:date" content="2007-06-25">June 25–28, 2007</span>.
+      <span xml:lang="" property="dc:language" content="en-US"/>
+      <span property="bib:status" resource="[bib:status/published]"/>
+      <blockquote class="abstract" property="bib:abstract"><p>Courtesy of experiments carried out by such thinkers as Wason, Johnson-Laird, and Kahneman &amp; Tversky, there is overwhelming empirical evidence that the vast majority of logically untrained humans are unable to reason in context-independent, normatively correct fashion. However, the multi-mind effect, which is predicted by our earlier success at teaching this kind of reasoning, and also by our general theory of human and machine reasoning, shows that while individual persons (with rare exceptions) are unable to solve problems that demand context-independent reasoning, groups of persons can often solve such problems.</p></blockquote>
+    </div>
+
+    <div about="http://www.cogsci.rpi.edu/research/rair/solomon/publications/012607/logic_based_MR_012607.pdf"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:language" content="en-US" xml:lang=""/>
+      <span content="Selmer Bringsjord" property="dc:creator">S. Bringsjord</span>,
+      <span content="Konstantine Arkoudas" property="dc:creator">K. Arkoudas</span>,
+      <span content="Micah Clark" property="dc:creator">M. Clark</span>,
+      <span content="Andrew Shilliday" property="dc:creator">A. Shilliday</span>,
+      <span content="Joshua Taylor" property="dc:creator">J. Taylor</span>,
+      <span content="Bettina Schimanski" property="dc:creator">B. Schimanski</span>, and
+      <span content="Yingrui Yang" property="dc:creator">Y. Yang</span>.
+      <a rel="dc:hasFormat" property="dc:title" class="title" href="http://www.aaai.org/Papers/Symposia/Spring/2007/SS-07-06/SS07-06-005.pdf">Reporting on Some Logic-Based Machine Reading Research</a>.
+      In Proceedings of the <a rel="dc:isPartOf" href="http://www.aaai.org/Library/Symposia/Spring/ss07-06.php"><span property="dc:title">2007 AAAI Spring Symposium on Machine Reading</span></a>.
+      <span property="dc:date" datatype="xmls:date">2007</span>.
+      <span property="bib:status" resource="[bib:status/published]"/>
+      <blockquote class="abstract" property="bib:abstract"><p>Much sponsored research in our lab either falls under or intersects with machine reading. In this short paper we give an encapsulated presentation of some of the research in question, leaving aside, for the most part, the considerable detailed technical information that underlies our work. Demonstrations of our technology will be provided at the symposium itself.</p></blockquote>
+    </div>
+
+    <div about="http://ijttl.sicet.org/issue0602/Bringsjord%20Vol2%20Issue2.pdf"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:language" content="en-US" xml:lang=""/>
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">P. Bello</span>,
+      <span property="dc:creator">Y. Yang</span>, and
+      <span property="dc:creator">K. Arkoudas</span>.
+      <a href="http://ijttl.sicet.org/issue0602/Bringsjord%20Vol2%20Issue2.pdf" rel="dc:hasFormat" class="title" property="dc:title">Harnessing Intelligent Agent Technology to ‘Superteach’ Reasoning</a>.
+      <a rel="dc:hasFormat" href="http://kryten.mm.rpi.edu/Bringsjord.Vol2.Iss1.PubFormat.doc"/>
+      <a rel="dc:isPartOf" href="http://sicet.org/journals/ijttl/ijttl.html"><span property="dc:title">International Journal of Technology in Teaching and Learning</span></a>, 
+      <span property="bib:volume" class="volume">2</span>(<span property="bib:issue">2</span>):<span property="bib:startPage">88</span>–<span property="bib:endPage">116</span>.
+      <span datatype="xmls:date" property="dc:date">2006</span>.
+      <span property="bib:status" resource="[bib:status/published]"/>
+      <blockquote class="abstract" property="bib:abstract"><p>After briefly explaining our ultimate educational goal with respect to reasoning (to “superteach” reasoning), and our theoretical foundation, we give an overview of some of our attempts to build and harness intelligent agents in order to reach this goal. We end with coverage of the Slate system, which inherits its power from lessons learned in connection with the engineering of its more primitive predecessors.</p></blockquote>
+    </div>
+
+    <div about="http://kryten.mm.rpi.edu/sb_etal_godel_bb.pdf"
+	 id="busy_beaver"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:creator" content="Selmer Bringsjord">Bringsjord, S.</span>;
+      <span property="dc:creator" content="Owen Kellet">Kellett, O.</span>;
+      <span property="dc:creator" content="Andrew Shilliday">Shilliday, A.</span>;
+      <span property="dc:creator" content="Joshua Taylor">Taylor, J.</span>;
+      <span property="dc:creator" content="Bram Van Heuveln">Van Heuveln, B.</span>;
+      <span property="dc:creator" content="Yingrui Yang">Yang, Y.</span>;
+      <span property="dc:creator" content="Jeffrey Baumes">Baumes, J.</span>;
+      <span property="dc:creator" content="Kyle Ross">Ross, K</span>.
+      (<span property="dc:date">2006</span>).
+      "<a href="http://kryten.mm.rpi.edu/sb_etal_godel_bb.pdf" class="title" property="dc:title">A new Gödelian argument for hypercomputing minds based on the busy beaver problem</a>".
+      <a rel="dc:isPartOf" href="http://www.sciencedirect.com/science/journal/00963003"><span property="dc:title">Applied Mathematics and Computation</span></a>
+      <span property="bib:volume" class="volume">176</span>(<span property="bib:issue">2</span>):<span property="bib:pageStart">516</span>–<span property="bib:pageEnd">530</span>.
+      <span property="bib:status" resource="[bib:status/published]"/>
+      doi:<a href="http://dx.doi/org/10.1016/j.amc.2005.09.071">10.1016/j.amc.2005.09.071</a>.
+      <blockquote property="bib:abstract"><p>Do human persons hypercompute? Or, as the doctrine of <dfn>computationalism</dfn> holds, are they information processors at or below the Turing Limit? If the former, given the essence of hypercomputation, persons must in some real way be capable of infinitary information processing. Using as a springboard Gödel's little-known assertion that the human mind has a power “converging to infinity”, and as an anchoring propblem Rado's Turing-uncomputable “busy-beaver” (or Σ) function, we present in this short paper a new argument that, in fact, human persons can hypercompute. The argument is intended to be a formidable, not conclusive: it brings Gödel's intuition to a greater level of precision, and places it within a sensible case against computationalism.</p></blockquote>
+    </div>
+<!--
+    <div about="http://kryten.mm.rpi.edu/sb_etal_godel_bb.pdf"
+	 id="busy_beaver"
+	 typeof="bib:AcademicArticle">
+      <span property="dc:language" content="en-US" xml:lang=""/>
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">O. Kellett</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">B. van Heuveln</span>,
+      <span property="dc:creator">Y. Yang</span>,
+      <span property="dc:creator">J. Baumes</span>, and
+      <span property="dc:creator">K. Ross</span>.
+      <a href="http://kryten.mm.rpi.edu/sb_etal_godel_bb.pdf" rel="dc:hasFormat" class="title" property="dc:title">A new Gödelian argument for hypercomputing minds based on the Busy Beaver problem</a>.
+      <a rel="dc:isPartOf" href="http://www.sciencedirect.com/science/journal/00963003">Applied Mathematics and Computation</a>, 
+      <span property="bib:volume" class="volume">176</span>(<span property="bib:issue">2</span>):<span property="bib:pageStart">516</span>–<span property="bib:pageEnd">530</span>.
+      <span datatype="xmls:date" property="dc:date" content="2006-05-15">May 15, 2006</span>.
+      <span property="bib:status" resource="[bib:status/published]"/>
+      <blockquote property="bib:abstract"><p>Do human persons hypercompute? Or, as the doctrine of <dfn>computationalism</dfn> holds, are they information processors at or below the Turing Limit? If the former, given the essence of hypercomputation, persons must in some real way be capable of infinitary information processing. Using as a springboard Gödel's little-known assertion that the human mind has a power “converging to infinity”, and as an anchoring propblem Rado's Turing-uncomputable “busy-beaver” (or Σ) function, we present in this short paper a new argument that, in fact, human persons can hypercompute. The argument is intended to be a formidable, not conclusive: it brings Gödel's intuition to a greater level of precision, and places it within a sensible case against computationalism.</p></blockquote>
+    </div>
+-->
+
+    <h2 id="presentations">Presentations</h2>
+
+    <p about="[_:AAAI2008ScientificDiscoverySlides]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">J. Taylor</span>, 
+      <span property="dc:creator">S. Bringsjord</span>.
+      <a href="http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/2008.11.08_DiscoveryUsingHeterogeneousCombinedLogics.pdf" rel="dc:hasFormat" property="dc:title" class="title">Discovery using Heterogeneous Combined Logics</a>.
+      Presented at the <a href="http://www.cogsci.rpi.edu/conferences/AAAI/FallSymposium2008/" rel="dc:isPartOf"><span property="dc:title">2008 AAAI Fall Symposium on Automated Scientific Discovery</span></a>.
+      <span property="dc:location">Arlington, Virginia</span>.
+      <span property="dc:date" datatype="xmls:date" content="2008-11-08">November 7–9, 2008</span>.
+      (Taylor presented.)
+    </p>
+
+    <p about="[_:CMNASlides]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">M. Clark</span>, and
+      <span property="dc:creator">K. Arkoudas</span>.
+    <a rel="dc:hasFormat" property="dc:title" href="http://www.rpi.edu/~clarkm5/presentations/CMNA8extendedslides.pdf" class="title">Slate: An Argument-Centered Intelligent Assistant to Human Reasoners</a>. 
+    Presented at the <span rel="dc:isPartOf"><span property="dc:title">18th European Conference on Artificial Intelligence (ECAI 2008)</span></span>
+    in the <span rel="dc:isPartOf"><span property="dc:title">8th International Workshop on Computational Models of Natural Argument (CMNA 8)</span></span>.
+    <span property="dc:location">University of Patras, Patras, Greece</span>.
+    <span property="dc:date" datatype="xmls:date" content="2008-07-21">July 21, 2008</span>.
+    (Clark presented.)
+    </p>
+
+    <p about="[_:ASPACEXUpdates]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>, and
+      <span property="dc:creator">M. Clark</span>.
+      <span class="title">Updates on Advanced Knowledge Representation and Reasoning for Interactive Visualization</span>.
+      Presented at IARPA/DTO ASpace-X site visit. <span property="dc:date" content="2008-02-07" datatype="xmls:date">February 7, 2008</span>.
+    </p>
+
+    <p about="[_:ONISWslides]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">M. Clark</span>, and
+      <span property="dc:creator">D. Werner</span>.
+      <span property="dc:title" class="title">Provability-Based Semantic Interoperability via Translation Graphs</span>.
+      Presented at the <span rel="dc:isPartOf"><span property="dc:title">26th International Conference on Conceptual Modeling (ER 2007)</span></span>,
+      in the <span rel="dc:isPartOf"><span property="dc:rel">Ontologies and Information Systems for the Semantic Web (ONISW)</span></span> workshop,
+      <span property="dc:location">Auckland, New Zealand</span>.
+      <span property="dc:date" datatype="xmls:date" content="2007-11-5">November 5–9, 2007</span>.
+      (Shilliday presented.)
+    </p>
+
+    <p about="http://kryten.mm.rpi.edu/PRES/ICAI07/ICAI_Pres_v06.pdf"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">K. Arkoudas</span>,
+      <span property="dc:creator">D. Mukherjee</span> (presenter),
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">M. Clark</span>,
+      <span property="dc:creator">E. Bringsjord</span>.
+      <a rel="dc:hasFormat" href="http://kryten.mm.rpi.edu/PRES/ICAI07/ICAI_Pres_v06.pdf" property="dc:title" class="title">The Multi-Mind Effect</a>.
+      <a rel="dc:isPartOf" href="http://www.worldacademyofscience.org/worldcomp07/ws/ICAI07"><span property="dc:title">2007 International Conference on Artifical Intelligence</span></a>, in the
+      <a rel="dc:isPartOf" href="http://www.world-academy-of-science.org/worldcomp07/ws/ICAI07/workshops_sessions"><span property="dc:title">Extending Computational Cognitive Modeling to Issues of Multi-agent Interaction workshop</span></a>.
+      <span property="dc:date" content="2007-06-28" datatype="xmls:date">June 28, 2007</span>.</p>
+
+    <p about="http://kryten.mm.rpi.edu/PRES/AQUAINT0507/Bringsjord_et_al_AQUAINT_051607.pdf"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,  
+      <span property="dc:creator">D. Werner</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">M. Clark</span>.
+      <a href="http://kryten.mm.rpi.edu/PRES/AQUAINT0507/Bringsjord_et_al_AQUAINT_051607.pdf" rel="dc:hasFormat" property="dc:title" class="title">The Solomon QA System: Updates (Blue Sky PoC Project).</a>
+      Solomon site visit, Rensselaer Polytechnic Institute, Troy, NY.
+      <span property="dc:date" content="2007-05">May 2007</span>.</p>
+
+    <p about="http://kryten.mm.rpi.edu/PRES/AAAISSS07MR/RAIR_Lab_AAAISSS2007MR.pdf"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,  
+      <span property="dc:creator">K. Arkoudas</span>,  
+      <span property="dc:creator">M. Clark</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">B. Schimanski</span>,
+      <span property="dc:creator">Y. Yang</span>.
+      <a property="dc:title" rel="dc:hasFormat" href="http://kryten.mm.rpi.edu/PRES/AAAISSS07MR/RAIR_Lab_AAAISSS2007MR.pdf" class="title">Some Remarks on Logic-Based Machine Reading Research</a>.
+      <a rel="dc:isPartOf" href="http://www.cs.washington.edu/homes/pjallen/aaaiss07/index.htm"><span property="dc:title">2007 Association for the Advancement of Artificial Intelligence (AAAI) Spring Symposium on Machine Reading</span></a>,
+      <span property="dc:location">Stanford University, Palo Alto, CA</span>.
+      <span property="dc:date" datatype="xmls:date" content="2007-03-27">March 27, 2007</span>.
+      (Bringsjord and Taylor presented.)</p>
+
+    <p about="[_:SolomonUpdates]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">M. Clark</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>, and
+      <span property="dc:creator">T. Housten</span>.
+      <span property="dc:title" class="title">The Solomon QA System: Updates</span>.
+      Presented at <span rel="dc:isPartOf"><span property="dc:title">DTO InfoX Principal Investigator Meeting</span></span>.
+      <span property="dc:date" datatype="xmls:date" content="2007-03-15">March 15, 2007.</span>
+      (Bringsjord presented.)
+    </p>
+
+    <p about="[_:on_slate]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">M. Clark</span>.
+      <span property="dc:title" class="title">On Slate</span>.
+      DTO ARIVA Principal Investigator Meeting,
+      Falls Church, VA.
+      <span property="dc:date" content="2006-06-14" datatype="xmls:date">June 14, 2006</span>.</p>
+
+    <div about="http://kryten.mm.rpi.edu/PRES/PNNL0805/sb_pnnlprez_080805.pdf"
+	 typeof="bib:Slideshow">
+      <p><span property="dc:creator">S. Bringsjord</span>,
+	<span property="dc:creator">A. Shilliday</span>,
+	<span property="dc:creator">J. Taylor</span>,
+	<span property="dc:creator">K. Arkoudas</span>,
+	<span property="dc:creator">S. Khemlani</span>,
+	<span property="dc:creator">E. Pratt</span>,
+	<span property="dc:creator">B. Schimanski</span>,
+	<span property="dc:creator">G. Mulley</span>.
+	<a href="http://kryten.mm.rpi.edu/PRES/PNNL0805/sb_pnnlprez_080805.pdf" rel="dc:hasFormat" property="dc:title" class="title">Artificial Intelligence and the Future of Intelligence Analysis and Wargaming</a>.
+	<a href="http://www.pnl.gov/">Pacific Northwest National Laboratory</a>,
+	<span property="dc:date" datatype="xmls:date" content="2005-08-08">August 8, 2005</span>.
+	(Bringsjord presented.)</p>
+      <ul style="display: none;" rel="dc:hasFormat">
+	<li><a href="http://kryten.mm.rpi.edu/PRES/PNNL0805/sb_pnnlprez_080805.key.tar.gz">http://kryten.mm.rpi.edu/PRES/PNNL0805/sb_pnnlprez_080805.key.tar.gz</a></li>
+	<li><a href="http://kryten.mm.rpi.edu/PRES/PNNL0805/sb_pnnlprez_080805.pdf">http://kryten.mm.rpi.edu/PRES/PNNL0805/sb_pnnlprez_080805.pdf</a></li>
+	<li><a href="http://kryten.mm.rpi.edu/PRES/PNNL0805/sb_pnnlprez_080805.ppt">http://kryten.mm.rpi.edu/PRES/PNNL0805/sb_pnnlprez_080805.ppt</a></li>
+      </ul>
+    </div>
+
+    <p about="[_:chogic]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">K. Arkoudas</span>,
+      <span property="dc:creator">Y. Yang</span>,
+      <span property="dc:creator">B. van Heuveln</span>,
+      <span property="dc:creator">P. Bello</span>,
+      <span property="dc:creator">J. Taylor</span>.
+      <span property="dc:title" class="title">Introducing <span style="font-variant: small-caps">Chogic</span>: A Primitive Part of the <span style="font-variant: small-caps;">Marmml</span> Machine Reasoning System</span>.
+      Delivered at the <a href="http://www.unipv.eu/on-line/Home.html">University of Pavia</a>, Pavia, Italy,
+      <span property="dc:date" content="2004-06-04" datatype="xmls:date">June 4, 2004</span>.
+      (Bello presented.)</p>
+
+    <p about="[_:on-model-building-based-hypothesis-generation]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>
+      <span property="dc:creator">A. Shilliday</span>, and
+      <span property="dc:creator">J. Taylor</span>.
+      <span class="title">On Model Building-Based Hypothesis Generation</span>.
+      NIMD PI Meeting, Orlando, Florida,
+      <span property="dc:date" datatype="xmls:date" content="2004-11-30">November 30, 2004</span>.
+      (Bringsjord presented.)</p>
+
+    <p about="[_:slate-core-development-directions]">
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">E. Pratt</span>, and
+      <span property="dc:creator">S. Bringsjord</span>.
+      <span property="dc:title" class="title">Slate - &#8220;Core&#8221; Development Directions</span>.
+      <a href="http://www.watson.ibm.com/index.shtml">IBM, T.J. Watson Research Center</a>, Hawthorne, NY.
+      <span property="dc:date" datatype="xmls:date" content="2005-06-06">June 6, 2005</span>.</p>
+
+    <p about="[_:an-overview-of-slate]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">K. Arkoudas</span>, and
+      <span property="dc:creator">S. Khemlani</span>.
+      <span property="dc:title" class="title">An Overview of Slate</span>.
+      Undergraduate Research Presentations, <a href="http://www.cogsci.rpi.edu/minds_machines/">Minds and Machines</a> Seminar,
+      Rensselaer Polytechnic Institute, Troy, NY.
+      <span property="dc:date" datatype="xmls:date" content="2005-03-30">March 30, 2005</span>.
+      (Taylor and Khemlani presented.)</p>
+
+    <p about="[_:slate-intelligent-assistant-to-professionals-and-students]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>, and
+      <span property="dc:creator">S. Bringsjord</span>.
+      <span property="dc:title" class="title">Slate: An Intelligent Assistant to Professionals and Students in the Fields of Intelligence Analysis, Mathematics, and Logic</span>. 
+      For <a href="http://www.ils.albany.edu/">The Institute for Informatics, Logics and Security Studies</a>, Albany, NY.
+      <span property="dc:date" content="2005-03-18">March 18, 2005</span>.</p>
+
+    <div about="http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.mov"
+	 typeof="bib:Slideshow">
+      <p><span property="dc:creator">S. Bringsjord</span>,
+	<span property="dc:creator">K. Arkoudas</span>,
+	<span property="dc:creator">Y. Yang</span>,
+	<span property="dc:creator">A. Shilliday</span>,
+	<span property="dc:creator">J. Taylor</span>,
+	<span property="dc:creator">M. Destefano</span>.
+	<a rel="dc:hasFormat" href="http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.mov" property="dc:title" class="title">New Architectures, Algorithms, and Designs that Lead to Implemented Machine Reasoning over Knowledge in Epistemic and Deontic Formats, in the Service of Wargaming</a>.
+	AFRL Rome,
+	<span property="dc:date" content="2005-02-23" datatype="xmls:date">Febuary 23 2005</span>.
+	(Bringsjord and Arkoudas presented.)</p>
+      <ul style="display: none;" rel="dc:hasFormat">
+	<li><a href="http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.mov">http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.mov</a></li>
+	<li><a href="http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.tar">http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.tar</a></li>
+      </ul>
+    </div>
+      
+    <p about="[_:two-types-of-tacit-knowledge-in-the-analytic-process]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">A. Shilliday</span>.
+      <span property="dc:title" class="title">Two Types of Tacit Knowledge in the Analytic Process</span>.
+      NIMD PI Meeting, Orlando, Florida.
+      <span property="dc:date" content="2004-11-30">November 30, 2004</span>.
+      (Bringsjord presented.)</p>
+
+    <p about="[_:on-model-building-based-hypothesis-generation]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">A. Shilliday</span>.
+      <span property="dc:title" class="title">On Model Building-Based Hypothesis Generation</span>.
+      NIMD PI Meeting, Orlando, Florida.
+      <span property="dc:date" content="2004-11-30">November 30, 2004</span>.
+      (Bringsjord presented.)</p>
+
+    <p about="[_:toward-engineering-a-system-for-commanders-predictive-environment]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">K. Arkoudas</span>,
+      <span property="dc:creator">Y. Yang</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>.
+      <span property="dc:title" class="title">Toward Engineering a System for the &#8216;Commander's Predictive Environment&#8217; that Not Only Issues Predictions, But Justifies Those Predictions</span>.
+      Syracuse NY, organized and sponsored by Gene Santos, <a href="http://www.wpafb.af.mil/AFRL/afosr/">AFRL/AFOSR</a>.
+      <span property="dc:date" content="2004-11-04">November 4, 2004</span>.
+      (Bringsjord presented.)</p>
+
+    <p about="[_:intelligence-analysis-is-plagued-by-bias]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">K. Arkoudas</span>.
+      <span property="dc:title" class="title">Intelligence Analysis is Plagued by Bias, and Logic (Embodied in Slate) is the Antidote</span>.
+      <a href="http://www.boozallen.com/">Booz Allen Hamilton</a>, to BAH's intelligence analysts and wargamers, McLean, VA.
+      <span property="dc:date" content="2004-10-21">October 21, 2004</span>.</p>
+
+    <div about="http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.pdf"
+	 typeof="bib:Slideshow">
+      <p><span property="dc:creator">S. Bringsjord</span>,
+	<span property="dc:creator">A. Shilliday</span>,
+	<span property="dc:creator">J. Taylor</span>,
+	<span property="dc:creator">S. Khemlani</span>,
+	<span property="dc:creator">M. Destefano</span>,
+	<span property="dc:creator">K. Arkoudas</span>.
+	<a href="http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.pdf" rel="dc:hasFormat" property="dc:title" class="title">The Status of Slate</a>.
+	ARDA Review, <a href="http://www.umd.edu/">University of Maryland</a>, College Park.
+	<span property="dc:date" content="2004-04-05" datatype="xmls:date">April 5, 2004.</span></p>
+
+      <ul style="display:none;" rel="dc:hasFormat">
+	<li><a href="http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.pdf">http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.pdf</a></li>
+	<li><a href="http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.key.tar.gz">http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.key.tar.gz</a></li>
+      </ul>
+    </div>
+      
+    <p about="[_:status-update]"
+       typeof="bib:Slideshow">
+      <span property="dc:creator">S. Bringsjord</span>,
+      <span property="dc:creator">A. Shilliday</span>,
+      <span property="dc:creator">J. Taylor</span>,
+      <span property="dc:creator">J. Wodicka</span>,
+      <span property="dc:creator">M. Destefano</span>.
+      <span property="dc:title" class="title">Status Update of RAIR Lab's NIMD/Sage R&amp;D</span>.
+      ARDA review, San Diego, CA.
+      <span property="dc:date" datatype="xmls:date" content="2003-11-12">November 12, 2003</span>.
+      (Taylor presented.)</p>
+
+  </body>
+</html>
