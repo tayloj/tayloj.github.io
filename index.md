@@ -1,7 +1,6 @@
 ---
 title: "Joshua Taylor"
 lang: "en-US"
-layout: default
 ---
 
 - <mailto:joshuaaaron@gmail.com>
@@ -12,52 +11,51 @@ layout: default
 
 ## Education
 
-- Ph.D., Computer Science, January 2008--December 2014
-  Rensselaer Polytechnic Institute, Troy, NY
+- Ph.D., Computer Science, January 2008--December 2014  
+  Rensselaer Polytechnic Institute, Troy, NY  
   Dissertation: [Explorations in Fluid Logics](FluidLogics20141203.pdf)
-- M.S., Computer Science, August 2005--August 2007
-  Rensselaer Polytechnic Institute, Troy, NY
+- M.S., Computer Science, August 2005--August 2007  
+  Rensselaer Polytechnic Institute, Troy, NY  
   Dissertation: [Provability-Based Semantic Interoperability Between
     Knowledgebases and Databases via Translation
     Graphs](http://www.cs.rpi.edu/~tayloj/DOCS/jat.thesis.pdf)
-- B.S., Computer Science, Magna Cum Laude; Economics Minor, September 2001--May 2005
+- B.S., Computer Science, Magna Cum Laude; Economics Minor, September 2001--May 2005  
   Rensselaer Polytechnic Institute, Troy, NY
 
 ## Experience
 
 ### Chief Scientist, 2022--present
 
-Siege Technologies
+Siege Technologies  
 Rome, NY
 
 ### Principal Software Engineer, 2020--2022
 
-Siege Technologies
+Siege Technologies  
 Rome, NY
 
 ### Senior Software Engineer, 2014--2020
 
-Siege Technologies
+Siege Technologies  
 Rome, NY
 
 ### Research Engineer, 2011--2014
 
-Assured Information Security
+Assured Information Security  
 Rome, NY
 
 ### Graduate Research Assistant (Computer Science), 2005--2007, 2008--2011
 
-Department of Computer Science
-Department of Cognitive Science
-Rensselaer Polytechnic Institute
+Department of Computer Science  
+Department of Cognitive Science  
+Rensselaer Polytechnic Institute  
 Troy, NY, USA
-
 
 A primary developer of _Slate_, a system for formal and informal
 argument mapping, for use by professionals and students in the domains
 of intelligence analysis and mathematics.
 
-<!--
+<!-- 
 A primary developer of
 [Solomon](http://www.cogsci.rpi.edu/solomon/){.system}, an advanced
 question and answer dialogue system for intelligence analysts.
@@ -77,8 +75,8 @@ including _Slate_.
 
 ### Graduate Teaching Asssistant, Fall 2006
 
-Department of Computer Science
-Rensselaer Polytechnic Institute
+Department of Computer Science  
+Rensselaer Polytechnic Institute  
 Troy, NY, USA
 
 Teaching assistant for _CSCI 4150, Artificial Intelligence_ in
@@ -89,8 +87,8 @@ basic programming in Scheme and Prolog.
 
 ### Co-lecturer for Introduction to Logic, Fall 2005
 
-Department of Cognitive Science
-Rensselaer Polytechnic Institute
+Department of Cognitive Science  
+Rensselaer Polytechnic Institute  
 Troy, NY, USA
 
 Instructed students in the use of _Slate_ in _PHIL 2140, Introduction
@@ -99,8 +97,8 @@ proofs in formal logic using _Slate_.
 
 ### Sunday School Teacher, 2004--2005
 
-Korean Presbyterian Church of Albany
-7 Knox Drive
+Korean Presbyterian Church of Albany  
+7 Knox Drive  
 Schenectady, NY, USA
 
 Under direction of deacon responsible for junior and senior high youth
@@ -109,16 +107,16 @@ fifteen students in grades 6--8.
 
 ### Undergraduate Research Assistant, 2003--2005
 
-Department of Cognitive Science
-Rensselaer Polytechnic Institute
+Department of Cognitive Science  
+Rensselaer Polytechnic Institute  
 Troy, NY, USA
 
 Started development of _Slate_.
 
 ### Undergraduate Teaching Assistant, 2002--2005
 
-Department of Cognitive Science
-Rensselaer Polytechnic Institute
+Department of Cognitive Science  
+Rensselaer Polytechnic Institute  
 Troy, NY, USA
 
 Teaching assistant for _PHIL 2140, Introduction to Logic_ in Fall
@@ -136,8 +134,8 @@ proofs.
 
 ### Undergraduate Teaching Assistant, 2002--2003
 
-Department of Computer Science
-Rensselaer Polytechnic Institute
+Department of Computer Science  
+Rensselaer Polytechnic Institute  
 Troy, NY, USA
 
 Teaching assistant for _CSCI 1190, Beginning C Programming for
@@ -151,13 +149,11 @@ programming assignments.
 
 ## Skills
 
-
 ### Programming Languages
 
 - Java, Common Lisp, Scheme, C, Bash, Python
 
 ### Knowledge Representation
-
 
 - OWL (Web Ontology Language), RDF Schema (RDFS), Description Logic,
   Predicate Calculus, First Order Logic, Modal Logics,
@@ -207,7 +203,7 @@ Troy, NY 12180\
 (518) 276-6472\
 <shilla@cs.rpi.edu>
 
--->
+--> 
 
 ## Scientific Software
 
@@ -218,32 +214,32 @@ data collection, analysis, and artificial intelligence/machine
 learning (AI/ML) based prediction.  Developed under government and
 in-house funding for over ten years.
 
-- [Automated Effectiveness Evaluation of Moving Target Defenses: Metrics for Missions and Attacks][mtd2016], MTD'16
-- [A Quantitative Framework for Moving Target Defense Effectiveness Evaluation][mtd2015], MTD'15
-- [Assessing effectiveness of cybersecurity technologies][patent], Patent
+- [Automated Effectiveness Evaluation of Moving Target Defenses:
+  Metrics for Missions and
+  Attacks](https://dl.acm.org/doi/abs/10.1145/2995272.2995282), MTD'16
+- [A Quantitative Framework for Moving Target Defense Effectiveness
+  Evaluation](https://dl.acm.org/doi/10.1145/2808475.2808476f), MTD'15
+- [Assessing effectiveness of cybersecurity
+  technologies](https://patents.google.com/patent/WO2017116525A9/en),
+  Patent
 
-[patent]: https://patents.google.com/patent/WO2017116525A9/en
-[mtd2015]: https://dl.acm.org/doi/10.1145/2808475.2808476
-[mtd2016]: https://dl.acm.org/doi/abs/10.1145/2995272.2995282
-
-### Slate
+### Slate 
 
 Developed at Rensselaer Polytechnic Institute, _Slate_, a System for
 Logic and Theorem Extract, was developed to assist members of the
 intelligence community (IC) and students of logic, mathematics, and
 related disciplines.  Slate was also used as courseware within RPI's
 introduction and intermediate logic classes, and integrated with the
-_Logic: A Modern Approach_ textbook.
+[_Logic: A Modern Approach_](http://www.logicamodernapproach.com/).
 
 ## Publications
 
-_Note:_ Expand entries for abstracts.
-
-<details> <summary> Taylor, J., Zaffarano, K., Koller, B., Bancroft,
-C., & Syversen, J. (2016, October). [Automated effectiveness
-evaluation of moving target defenses: Metrics for missions and
-attacks][mtd2016]. In Proceedings of the 2016 ACM Workshop on Moving
-Target Defense (pp. 129-134).  </summary>
+Taylor, J., Zaffarano, K., Koller, B., Bancroft, C., & Syversen,
+J. (2016, October). [Automated effectiveness evaluation of moving
+target defenses: Metrics for missions and
+attacks](https://dl.acm.org/doi/abs/10.1145/2995272.2995282). In
+Proceedings of the 2016 ACM Workshop on Moving Target Defense
+(pp. 129-134).  
 
 > In this paper, we describe the results of several experiments
 > designed to test two dynamic network moving target defenses against
@@ -257,33 +253,28 @@ Target Defense (pp. 129-134).  </summary>
 > the costs and benefits of the two moving target defenses differ, and
 > note some of their unique performance characteristics.
 
-</details>
-
-<details> <summary>Kara Zaffarano, Joshua Taylor, Samuel Hamilton, [A
-Quantitative Framework for Moving Target Defense Effectiveness
+Kara Zaffarano, Joshua Taylor, Samuel Hamilton, [A Quantitative
+Framework for Moving Target Defense Effectiveness
 Evaluation](http://dx.doi.org/10.1145/2808475.2808476). In
-[Proc. MTD'15, Second ACM Workshop on Moving Targetf
+[Proc. MTD'15, Second ACM Workshop on Moving Target
 Defense](http://mtd.mobicloud.asu.edu/). October 2015.
-doi:[10.1145/2808475.2808476](http://dx.doi.org/10.1145/2808475.2808476).</summary>
+doi:[10.1145/2808475.2808476](http://dx.doi.org/10.1145/2808475.2808476).
 
 > Static defense has proven to be a brittle mechanism for defending
 > against cyber attack. Despite this, proactive defensive measures
 > have not been widely deployed. This is because flexible proactive
 > defensive measures such as Moving Target Defense (MTD) have as much
-> potential to interfere with a network\'s ability to support the
+> potential to interfere with a network's ability to support the
 > mission as they do to defend the network. In this paper we introduce
 > an approach to defining and measuring MTD effects applied in a
 > network environment to help guide MTD deployment decisions that
 > successfully balance the potential security benefits of MTD
 > deployment against the potential productivity costs.
 
-</details>
-
-<details><summary>N. S. Govindarajalulu, S. Bringsjord, J. Taylor, [Proof verification and
-proof discovery for
+N. S. Govindarajalulu, S. Bringsjord, J. Taylor, [Proof verification
+and proof discovery for
 relativity](http://dx.doi.org/10.1007/s11229-014-0424-3){.title}.
 Synthese, April 2014.
-</summary>
 
 > The vision of machines autonomously carrying out substantive
 > conjecture generation, theorem discovery, proof discovery, and proof
@@ -309,12 +300,9 @@ Synthese, April 2014.
 > a springboard to machine-produced results in the future that have
 > not been obtained by humans.
 
-</details>
-
-<details><summary>J. Taylor, R. T. Hall. Software Analysis in the Semantic Web. In Proc.
+J. Taylor, R. T. Hall. Software Analysis in the Semantic Web. In Proc.
 SPIE 8757, Cyber Sensing 2013. 2013.
 doi:[10.1117/12.2016122](http://dx.doi.org/10.1117/12.2016122).
-</summary>
 
 > Many approaches in software analysis, particularly dynamic malware
 > analyis, benefit greatly from the use of linked data and other
@@ -330,12 +318,9 @@ doi:[10.1117/12.2016122](http://dx.doi.org/10.1117/12.2016122).
 > the SemEx, as well as the C2DB, an OWL ontology used for representing
 > software behavior and cyber-environments.
 
-</details>
-
-<details><summary>R. T. Hall, J. Taylor. A Framework for Network-Wide Semantic Event
+R. T. Hall, J. Taylor. A Framework for Network-Wide Semantic Event
 Correlation. In Proc. SPIE 8757, Cyber Sensing 2013. 2013.
 doi:[10.1117/12.2016126](http://dx.doi.org/10.1117/12.2016126).
-</summary>
 
 > An increasing need for situational awareness within network-deployed
 > Systems Under Test has increased desire for frameworks that facilitate
@@ -352,14 +337,11 @@ doi:[10.1117/12.2016126](http://dx.doi.org/10.1117/12.2016126).
 > Battlefield Training and Effectiveness Environment (CBTEE) to
 > demonstrate use of the framework.
 
-</details>
-
-<details><summary>S. Bringsjord, J. Taylor. Introducing Divine-Command Robot Ethics. In P.
+S. Bringsjord, J. Taylor. Introducing Divine-Command Robot Ethics. In P.
 Lin, K. Abney, & G. Bekey, eds, [Robot Ethics: The Ethical and Social
 Implications of
 Robotics](http://mitpress.mit.edu/978-0-262-01666-7){.title}. MIT Press.
 2012. ISBN 978-0-262-01666-7.
-</summary>
 
 > Perhaps it is generally agreed that robots on the battlefield,
 > especially if they have lethal power, should be ethically regulated.
@@ -372,28 +354,24 @@ Robotics](http://mitpress.mit.edu/978-0-262-01666-7){.title}. MIT Press.
 > computational deontic logic, as explained elsewhere by Bringsjord and
 > colleagues. Another possibility is likewise based on computational
 > logic, but with a logic that captures some other mainstream ethical
-> theory (e.g., Kantian deontology, or Ross\' "right mix" direction).
+> theory (e.g., Kantian deontology, or Ross' "right mix" direction).
 > But there is another radically different possibility that hitherto has
 > not arrived on the scene: viz., the controlling code could be viewed
 > by the human as coming straight from God. There is some very rigorous
 > work in ethics along this line, which is known as *divine-command
 > ethics*. In a world in which human fighters and the general
 > populations supporting them often see themselves as indeed championing
-> God\'s will in war, divine-command ethics is quite relevant to
+> God's will in war, divine-command ethics is quite relevant to
 > military robots. This chapter introduces divine-command ethics in the
 > form of the computational logic LRT^\*^, intended to eventually be
 > suitable for regulating a real-world warfighting robot.
 
-</details>
-
-<details><summary>J. Taylor, S. Bringsjord, M. Clark. [Getting Started
+J. Taylor, S. Bringsjord, M. Clark. [Getting Started
 with
 Slate](http://www.cs.rpi.edu/~tayloj/DOCS/SlatePrimer_20100915.pdf).
-September 2010.  </summary>
+September 2010.  
 
-</details>
-
-<details><summary>A. Shilliday, J. Taylor, M. Clark, S. Bringsjord. [Provability-Based
+A. Shilliday, J. Taylor, M. Clark, S. Bringsjord. [Provability-Based
 Semantic Interoperability for Information Sharing and Joint
 Reasoning](http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/PBSIISJR.pdf){.title}.
 In L. Obrst, T. Janssen & W. Ceusters, eds, [Ontologies and Semantic
@@ -402,7 +380,6 @@ Intelligence](http://www.booksonline.iospress.nl/Content/View.aspx?piid=17686),
 Volume 213 of [Frontiers in Artificial Intelligence and
 Applications](http://www.booksonline.iospress.nl/Content/View.aspx?piid=9),
 109--128. IOS Press. 2010. ISBN 978-1-60750-580-8.
-</summary>
 
 > We describe provability-based semantic interoperability (PBSI), a
 > framework transcending syntactic translation that enables robust,
@@ -412,15 +389,12 @@ Applications](http://www.booksonline.iospress.nl/Content/View.aspx?piid=9),
 > work through an example of automating an unmanned aerial vehicle by
 > reasoning over information from a number of sources.
 
-</details>
-
-<details><summary>S. Bringsjord, M. Clark, J. Taylor. [Sophisticated Knowledge
+S. Bringsjord, M. Clark, J. Taylor. [Sophisticated Knowledge
 Representation and Reasoning Requires
 Philosophy](http://kryten.mm.rpi.edu/philkrr_091009.pdf). In R.
 Hagengruber, ed., Philosophy's Relevance in Information Science, in
 press. Papers from the conference [Philosophy's Relevance in Information
 Science](http://groups.uni-paderborn.de/hagengruber/pris08/).
-</summary>
 
 > Knowledge Representation and Reasoning (KR&R) is based on the idea
 > that propositional content can be rigorously represented in formal
@@ -451,9 +425,7 @@ Science](http://groups.uni-paderborn.de/hagengruber/pris08/).
 > propositional content, philosophy will be a key contributor into the
 > future.
 
-</details>
-
-<details><summary>S. Bringsjord, J. Taylor, T. Housten, B. van Heuveln, K. Arkoudas, M.
+S. Bringsjord, J. Taylor, T. Housten, B. van Heuveln, K. Arkoudas, M.
 Clark, R. Wojtowicz. [Piagetian roboethics via category theory: Moving
 beyond mere formal operations to engineer robots whose decisions are
 guaranteed to be ethically
@@ -461,7 +433,6 @@ correct](http://kryten.mm.rpi.edu/PRES/ROBOETHICSICRA09/SB_etal_RoboethicsWatICR
 In [Proceedings of the 2009 IEEE International Conference on Robotics
 and Automation (ICRA2009), Workshop on
 Roboethics](http://www.roboethics.org/icra2009/), IEEE Press. 2009.
-</summary>
 
 > This is an extended abstract, not a polished paper; an approach to,
 > rather than the results of, sustained research and development in the
@@ -477,9 +448,7 @@ Roboethics](http://www.roboethics.org/icra2009/), IEEE Press. 2009.
 > avowed Piagetian, sees to be central in rigorous and rational human
 > ethical decision-making.
 
-</details>
-
-<details><summary>S. Bringsjord, J. Taylor, A. Shilliday, M. Clark, and K. Arkoudas.
+S. Bringsjord, J. Taylor, A. Shilliday, M. Clark, and K. Arkoudas.
 [Slate: An Argument-Centered Intelligent Assistant to Human
 Reasoners](http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/CMNA08-Slate.pdf){.title}.
 In Proceedings of [CMNA 08, 8th Workshop on Computational Models of
@@ -488,7 +457,6 @@ conjunction with [ECAI 2008, 18th European Conference on Artificial
 Intelligence](http://www.ece.upatras.gr/ecai2008/). [University of
 Patras](http://www.upatras.gr/index/index/lang/en), Patras, Greece. July
 21, 2008.
-</summary>
 
 > We describe Slate, a logic-based, robust interactive reasoning system
 > that allows human "pilots" to harness an ensemble of intelligent
@@ -499,12 +467,10 @@ Patras](http://www.upatras.gr/index/index/lang/en), Patras, Greece. July
 > standardized reasoning tests. We demonstrate Slate in several
 > examples, describe some distinctive features of the system (e.g.,
 > reading and generating natural language, immunizing human reasoners
-> from "logical illusions"), present Slate\'s theoretical underpinnings,
+> from "logical illusions"), present Slate's theoretical underpinnings,
 > and note upcoming refinements.
 
-</details>
-
-<details><summary>S. Bringsjord, A. Shilliday, J. Taylor, D. Werner, M. Clark, E.
+S. Bringsjord, A. Shilliday, J. Taylor, D. Werner, M. Clark, E.
 Charpentier, and A. Bringsjord. [Toward Logic-Based Cognitively Robust
 Synthetic Characters in Digital
 Environments](http://kryten.mm.rpi.edu/sb_etal_agi2008.pdf){.title}.
@@ -513,7 +479,6 @@ Conference](http://www.agi-08.org/). In the series of [Frontiers in
 Artificial Intelligence and
 Applications](http://www.iospress.nl/loadtop/load.php?isbn=faia),
 171:87--98. IOS Press. 2008.
-</summary>
 
 > With respect to genuine cognitive faculties, present synthetic
 > characters inhabiting online virtual worlds are, to say the least,
@@ -535,14 +500,11 @@ Applications](http://www.iospress.nl/loadtop/load.php?isbn=faia),
 > reason about his own beliefs to draw conclusions in a manner that
 > matches human children his age.
 
-</details>
-
-<details><summary>J. Taylor, S. Bringsjord. [Discovery Using Heterogeneous Combined
+J. Taylor, S. Bringsjord. [Discovery Using Heterogeneous Combined
 Logics](http://www.aaai.org/Papers/Symposia/Fall/2008/FS-08-03/FS08-03-009.pdf){.title}.
 In [Papers from the 2008 AAAI Fall Symposium on Automated Scientiﬁc
 Discovery](http://www.aaai.org/Library/Symposia/Fall/fs08-03.php), AAAI
 Press, Menlo Park, CA, 31--32. Technical Report FS-08-03.
-</summary>
 
 > Research in hybrid logic systems and, later, description logics, has
 > revealed a tradeoff between the expressivity of a logical formalism,
@@ -556,9 +518,7 @@ Press, Menlo Park, CA, 31--32. Technical Report FS-08-03.
 > multiple logical systems, we propose the development of formalisms to
 > govern these interactions, and call this the study of combined logics.
 
-</details>
-
-<details><summary>A. Shilliday, J. Taylor, S. Bringsjord. [Toward Automated
+A. Shilliday, J. Taylor, S. Bringsjord. [Toward Automated
 Provability-Based Semantic Interoperability between Ontologies for the
 Intelligence
 Community](http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-299/24.pdf){.title}.
@@ -567,7 +527,6 @@ Intelligence Community
 (OIC-2007)](http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-299/),
 66--72. [CEUR Workshop Proceedings](http://ceur-ws.org). November
 28--29, 2007.
-</summary>
 
 > The need for interoperability is dire: Knowledge representation
 > systems employ ontologies that use disparate formalisms to describe
@@ -582,17 +541,14 @@ Intelligence Community
 > relationships among arbitrary ontologies; and ways in which these
 > techniques might be automated.
 
-</details>
-
-<details><summary>Taylor, J.; Shilliday, A.; Bringsjord, S.. (2007). \"Provability-Based
-Semantic Interoperability Via Translation Graphs\". Advances in
+Taylor, J.; Shilliday, A.; Bringsjord, S.. (2007). "Provability-Based
+Semantic Interoperability Via Translation Graphs". Advances in
 Conceptual Modeling -- Foundations and Applications. Lecture Notes in
 Computer Science 4802. pp. 180--189.
 doi:[10.1007/978-3-540-76292-8\_21](http://dx.doi.org/10.1007/978-3-540-76292-8_21).
 ISBN 978-3-540-76291-1. This paper appeared in the [2007 International
 Workshop on Ontologies and Information Systems for the Semantic Web
 (ONISW)](http://www.ischool.drexel.edu/faculty/hhan/onisw2007/).
-</summary>
 
 > Provability-based semantic interoperability (PBSI) is a kind of
 > interoperability that transcends mere syntactic translation to allow
@@ -606,16 +562,13 @@ Workshop on Ontologies and Information Systems for the Semantic Web
 > use of translation graphs on a small number of simple systems to
 > achieve interoperability.
 
-</details>
-
-<details><summary>S. Bringsjord, K. Arkoudas, D. Mukherjee, A. Shilliday, J. Taylor, M.
+S. Bringsjord, K. Arkoudas, D. Mukherjee, A. Shilliday, J. Taylor, M.
 Clark, and E. Bringsjord. [The Multi-Mind
 Effect](http://kryten.mm.rpi.edu/Bringsjord_MultiMind_ICAI07.pdf){.title}.
 In Proceedings of the [2007 International Conference on Artificial
 Intelligence
 (ICAI)](http://www.worldacademyofscience.org/worldcomp07/ws/ICAI07),
 43--49. CSREA Press. June 25--28, 2007.
-</summary>
 
 > Courtesy of experiments carried out by such thinkers as Wason,
 > Johnson-Laird, and Kahneman & Tversky, there is overwhelming empirical
@@ -628,14 +581,11 @@ Intelligence
 > demand context-independent reasoning, groups of persons can often
 > solve such problems.
 
-</details>
-
-<details><summary>S. Bringsjord, K. Arkoudas, M. Clark, A. Shilliday, J. Taylor, B.
+S. Bringsjord, K. Arkoudas, M. Clark, A. Shilliday, J. Taylor, B.
 Schimanski, and Y. Yang. [Reporting on Some Logic-Based Machine Reading
 Research](http://www.aaai.org/Papers/Symposia/Spring/2007/SS-07-06/SS07-06-005.pdf){.title}.
 In Proceedings of the [2007 AAAI Spring Symposium on Machine
 Reading](http://www.aaai.org/Library/Symposia/Spring/ss07-06.php). 2007.
-</summary>
 
 > Much sponsored research in our lab either falls under or intersects
 > with machine reading. In this short paper we give an encapsulated
@@ -644,16 +594,13 @@ Reading](http://www.aaai.org/Library/Symposia/Spring/ss07-06.php). 2007.
 > underlies our work. Demonstrations of our technology will be provided
 > at the symposium itself.
 
-</details>
-
-<details><summary>S. Bringsjord, A. Shilliday, J. Taylor, P. Bello, Y. Yang, and K.
+S. Bringsjord, A. Shilliday, J. Taylor, P. Bello, Y. Yang, and K.
 Arkoudas. [Harnessing Intelligent Agent Technology to 'Superteach'
 Reasoning](http://ijttl.sicet.org/issue0602/Bringsjord%20Vol2%20Issue2.pdf){.title}.
 [](http://kryten.mm.rpi.edu/Bringsjord.Vol2.Iss1.PubFormat.doc)
 [International Journal of Technology in Teaching and
 Learning](http://sicet.org/journals/ijttl/ijttl.html), 2(2):88--116.
 2006.
-</summary>
 
 > After briefly explaining our ultimate educational goal with respect to
 > reasoning (to "superteach" reasoning), and our theoretical foundation,
@@ -662,17 +609,14 @@ Learning](http://sicet.org/journals/ijttl/ijttl.html), 2(2):88--116.
 > of the Slate system, which inherits its power from lessons learned in
 > connection with the engineering of its more primitive predecessors.
 
-</details>
-
-<details><summary>Bringsjord, S.; Kellett, O.; Shilliday, A.; Taylor, J.; Van Heuveln, B.;
-Yang, Y.; Baumes, J.; Ross, K. (2006). \"[A new Gödelian argument for
-hypercomputing minds based on the busy beaver
-problem](http://kryten.mm.rpi.edu/sb_etal_godel_bb.pdf){.title}\".
-[Applied Mathematics and
+Bringsjord, S.; Kellett, O.; Shilliday, A.; Taylor, J.; Van Heuveln,
+B.; Yang, Y.; Baumes, J.; Ross, K. (2006). "[A new Gödelian argument
+for hypercomputing minds based on the busy beaver
+problem](http://kryten.mm.rpi.edu/sb_etal_godel_bb.pdf)".  [Applied
+Mathematics and
 Computation](http://www.sciencedirect.com/science/journal/00963003)
 176(2):516--530.
 doi:[10.1016/j.amc.2005.09.071](http://dx.doi/org/10.1016/j.amc.2005.09.071).
-</summary>
 
 > Do human persons hypercompute? Or, as the doctrine of computationalism
 > holds, are they information processors at or below the Turing Limit?
@@ -687,9 +631,7 @@ doi:[10.1016/j.amc.2005.09.071](http://dx.doi/org/10.1016/j.amc.2005.09.071).
 > precision, and places it within a sensible case against
 > computationalism.
 
-</details>
-
-<!--
+<!-- 
 ## Presentations
 
 J. Taylor, S. Bringsjord. [Discovery using Heterogeneous Combined
