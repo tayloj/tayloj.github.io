@@ -3,11 +3,12 @@ title: "Joshua Taylor"
 lang: "en-US"
 ---
 
-- <mailto:joshuaaaron@gmail.com>
-- <https://www.linkedin.com/in/joshua-taylor-phd/>
-- <https://tayloj.github.io>
-- <tel:+1-518-429-9230>
-- <https://github.com/tayloj>
+- [joshuaaaron@gmail.com](mailto:joshuaaaron@gmail.com)
+- [+1-518-429-9230](tel:+1-518-429-9230)
+- [LinkedIn](https://www.linkedin.com/in/joshua-taylor-phd/)
+- [GitHub Profile and Repositories](https://github.com/tayloj)
+- [StackOverflow Profile (top 0.20%)](https://stackoverflow.com/users/1281433/joshua-taylor)
+- [Curriculum Vitae (this document)](https://tayloj.github.io)
 
 ## Education
 
@@ -29,20 +30,50 @@ lang: "en-US"
 Siege Technologies  
 Rome, NY
 
+Work alongside Siege's Senior Leadership Team to provide technical
+guidance for program execution, business development, and internal
+research and development. Primary author of Siege's technical blog,
+[Cyber Under
+Siege](https://www.siegetechnologies.com/cyber-under-siege/). Continued
+development of the Cyber Quantification Framework, and sustained
+growth of Siege's semantic technologies group.
+
 ### Principal Software Engineer, 2020--2022
 
 Siege Technologies  
 Rome, NY
+
+Led development of Siege's internal research and development
+extensions to the Cyber Quantification Framework for commercialization
+and a broader range of virtualization platforms.  Continued building
+Siege's semantic technologies group, bringing in sufficient work to
+support a team of engineers. Continued building customer and industry
+relationships.
 
 ### Senior Software Engineer, 2014--2020
 
 Siege Technologies  
 Rome, NY
 
+A primary developer of Siege's Cyber Quantification Framework (CQF)
+for designing and executing cyber-experiments, data collection,
+analysis, and AI/ML-based prediction of software behavior.  Also
+participated in reverse engineering efforts. Initiated Siege's
+ventures into semantic technologies in support of defense
+applications.  Participated in business development, customer
+interaction, and collaboration with industry partners.
+
 ### Research Engineer, 2011--2014
 
 Assured Information Security  
 Rome, NY
+
+Worked in AIS's Decision Sciences and Analytics group, contributing to
+a variety of efforts including semantic behavioral analysis of malware
+and cyber-environment modeling for situational awareness. Mentored
+other developers in semantic technologies (RDF, OWL, rule-based
+reasoning).  Active in business development and proposals. Executed
+internal research and development efforts.
 
 ### Graduate Research Assistant (Computer Science), 2005--2007, 2008--2011
 
@@ -95,16 +126,6 @@ Instructed students in the use of _Slate_ in _PHIL 2140, Introduction
 to Logic_. Students learned to construct and check arguments and
 proofs in formal logic using _Slate_.
 
-### Sunday School Teacher, 2004--2005
-
-Korean Presbyterian Church of Albany  
-7 Knox Drive  
-Schenectady, NY, USA
-
-Under direction of deacon responsible for junior and senior high youth
-group, prepared and taught weekly lessons for a group of five to
-fifteen students in grades 6--8.
-
 ### Undergraduate Research Assistant, 2003--2005
 
 Department of Cognitive Science  
@@ -149,25 +170,17 @@ programming assignments.
 
 ## Skills
 
-### Programming Languages
-
-- Java, Common Lisp, Scheme, C, Bash, Python
-
-### Knowledge Representation
-
-- OWL (Web Ontology Language), RDF Schema (RDFS), Description Logic,
-  Predicate Calculus, First Order Logic, Modal Logics,
-  [IKRIS](http://nrrc.mitre.org/NRRC/ikris.htm) Knowledge Language
+- Programming Languages: Java, Common Lisp, Scheme, C, Bash, Python
+- Knowledge Representation: OWL (Web Ontology Language), RDF Schema
+  (RDFS), SPARQL, Description Logic, Predicate Calculus, First Order
+  Logic, Modal Logics, [IKRIS](http://nrrc.mitre.org/NRRC/ikris.htm)
+  Knowledge Language
   ([IKL](http://www.ihmc.us/users/phayes/IKL/SPEC/SPEC.html)), [Common
   Logic](http://cl.tamu.edu/)
-
-### Operating Systems
-
-- MS Windows, Unix (Linux, FreeBSD), OS X
-
-### Tools & Software
-
-- Eclipse, Git (CLI, GitLab, GitHub), Emacs, Bash, LaTeX, MS Office
+- Tools, Software, Libraries: Eclipse, Git (CLI, GitLab, GitHub),
+  Emacs, Bash, VirtualBox API, VMware APIs, Java metaprogramming,
+  OpenAPI, LaTeX, MS Office
+- Operating Systems: MS Windows, Unix (Linux, FreeBSD), OS X
 
 <!--
 
@@ -781,3 +794,44 @@ Update of RAIR Lab\'s NIMD/Sage R&D. ARDA review, San Diego, CA.
 November 12, 2003. (Taylor presented.)
 
 -->
+
+## Community
+
+### Handbell Choir Director, 2017--2020
+
+First Baptist Church
+Rome, NY
+
+Directed a mixed-age choir of handbell ringers of various musical
+backgrounds, aiming for three to four performances yearly during
+Sunday sevices.  Responsible for selecting music, instructing ringers
+in handbell technique and general music education, scheduling and
+directing rehearsals.
+
+### Substitute Musician, 2012--present
+
+First Baptist Church
+Rome, NY
+
+Substitute for church pianist/organist as needed, occasionally warming
+up and directing chancel choir in service music.  Also provide piano
+accompaniment at nursing home services during First Baptist's services
+(as part of the Rome Clergy Association's rotation).
+
+### Diaconate, Substitute Musician, Handbell Choir Director, 2013--present
+
+First Baptist Church
+Rome, NY
+
+Prepare and set up for various sevices as needed, typically monthly.
+Attend board meetings, and assist as able.
+
+### Sunday School Teacher, 2004--2005
+
+Korean Presbyterian Church of Albany
+7 Knox Drive
+Schenectady, NY, USA
+
+Under direction of deacon responsible for junior and senior high youth
+group, prepared and taught weekly lessons for a group of five to
+fifteen students in grades 6--8.
