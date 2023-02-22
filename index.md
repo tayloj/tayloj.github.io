@@ -170,7 +170,11 @@ programming assignments.
 - Eclipse, Git (CLI, GitLab, GitHub), Emacs, Bash, LaTeX, MS Office
 
 <!--
+
 ## References
+
+Reading the page source? These aren't secret, but they're a bit
+outdated.  These folks will still remember me, though.
 
 ### Selmer Bringsjord; Professor and Advisor
 
@@ -633,6 +637,9 @@ doi:[10.1016/j.amc.2005.09.071](http://dx.doi/org/10.1016/j.amc.2005.09.071).
 
 <!-- 
 ## Presentations
+
+This list is somewhat stale, and it's hard to keep track of all the
+smaller presentations that come up.
 
 J. Taylor, S. Bringsjord. [Discovery using Heterogeneous Combined
 Logics](http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/2008.11.08_DiscoveryUsingHeterogeneousCombinedLogics.pdf){.title}.
