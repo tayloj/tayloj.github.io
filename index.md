@@ -799,7 +799,7 @@ November 12, 2003. (Taylor presented.)
 
 ### Handbell Choir Director, 2017--2020
 
-First Baptist Church
+First Baptist Church  
 Rome, NY
 
 Directed a mixed-age choir of handbell ringers of various musical
@@ -810,7 +810,7 @@ directing rehearsals.
 
 ### Substitute Musician, 2012--present
 
-First Baptist Church
+First Baptist Church  
 Rome, NY
 
 Substitute for church pianist/organist as needed, occasionally warming
@@ -818,9 +818,9 @@ up and directing chancel choir in service music.  Also provide piano
 accompaniment at nursing home services during First Baptist's services
 (as part of the Rome Clergy Association's rotation).
 
-### Diaconate, Substitute Musician, Handbell Choir Director, 2013--present
+### Diaconate, 2013--present
 
-First Baptist Church
+First Baptist Church  
 Rome, NY
 
 Prepare and set up for various sevices as needed, typically monthly.
@@ -828,9 +828,9 @@ Attend board meetings, and assist as able.
 
 ### Sunday School Teacher, 2004--2005
 
-Korean Presbyterian Church of Albany
-7 Knox Drive
-Schenectady, NY, USA
+Korean Presbyterian Church of Albany  
+7 Knox Drive  
+Schenectady, NY
 
 Under direction of deacon responsible for junior and senior high youth
 group, prepared and taught weekly lessons for a group of five to
