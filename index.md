@@ -6,8 +6,8 @@ lang: "en-US"
 - [joshuaaaron@gmail.com](mailto:joshuaaaron@gmail.com)
 - [+1-518-429-9230](tel:+1-518-429-9230)
 - [LinkedIn](https://www.linkedin.com/in/joshua-taylor-phd/)
-- [GitHub Profile and Repositories](https://github.com/tayloj)
-- [StackOverflow Profile (top 0.20%)](https://stackoverflow.com/users/1281433/joshua-taylor)
+- [GitHub](https://github.com/tayloj)
+- [StackOverflow (top 0.20%)](https://stackoverflow.com/users/1281433/joshua-taylor)
 - [Curriculum Vitae (this document)](https://tayloj.github.io)
 
 ## Education
@@ -17,7 +17,7 @@ lang: "en-US"
   Dissertation: [Explorations in Fluid Logics](FluidLogics20141203.pdf)
 - M.S., Computer Science, August 2005--August 2007  
   Rensselaer Polytechnic Institute, Troy, NY  
-  Dissertation: [Provability-Based Semantic Interoperability Between
+  Thesis: [Provability-Based Semantic Interoperability Between
     Knowledgebases and Databases via Translation
     Graphs](http://www.cs.rpi.edu/~tayloj/DOCS/jat.thesis.pdf)
 - B.S., Computer Science, Magna Cum Laude; Economics Minor, September 2001--May 2005  
@@ -75,7 +75,35 @@ other developers in semantic technologies (RDF, OWL, rule-based
 reasoning).  Active in business development and proposals. Executed
 internal research and development efforts.
 
-### Graduate Research Assistant (Computer Science), 2005--2007, 2008--2011
+### Graduate Research Assistant, 2008--2011
+
+Department of Computer Science  
+Department of Cognitive Science  
+Rensselaer Polytechnic Institute  
+Troy, NY, USA
+
+Continued development of _Slate_ in support of the intelligence
+community as well as for pedagogical use in Rensselaer's Introduction
+to Logic and Intermediate Logic courses. Translations between logical
+systems enabled students to use automated reasoners in one logic as
+oracles within others (for instance, using an automated theorem prover
+for first order logic to solve problems in modal logic using Kripke
+frame semantics).
+
+Translations between logics led to my PhD dissertation topic, _Fluid
+Logics_, an approach to logic-based interoperability and proof
+translation rooted in category theory.
+
+Gained significant experience in proposal writing, especially for
+government and defense programs, as well as proper documentation
+procedures for the same, including adherance to technical report
+guidelines.
+
+<!-- A primary developer of
+[Solomon](http://www.cogsci.rpi.edu/solomon/){.system}, an advanced
+question and answer dialogue system for intelligence analysts.  -->
+
+### Graduate Research Assistant, 2005--2007
 
 Department of Computer Science  
 Department of Cognitive Science  
@@ -86,17 +114,10 @@ A primary developer of _Slate_, a system for formal and informal
 argument mapping, for use by professionals and students in the domains
 of intelligence analysis and mathematics.
 
-<!-- 
-A primary developer of
-[Solomon](http://www.cogsci.rpi.edu/solomon/){.system}, an advanced
-question and answer dialogue system for intelligence analysts.
--->
-
 Graduate research in provability based interoperability culminated in
 my MS thesis, [Provability-Based Semantic Interoperability Between
-Knowledgebases and Databases via Translation Graphs](jat.thesis.pdf)
-and [Provability-Based Semantic Interoperability via Translation
-Graphs](#PBSI-OIC-2007). Worked with RAIR Lab colleagues and teams
+Knowledgebases and Databases via Translation
+Graphs](jat.thesis.pdf). Worked with RAIR Lab colleagues and teams
 from IBM, Stanford University, Pacific Northwest National
 Laboratories, and Oculus Inc. to achieve semantic interoperability
 between software systems developed for intelligence analysis,
@@ -354,10 +375,10 @@ doi:[10.1117/12.2016126](http://dx.doi.org/10.1117/12.2016126).
 > Battlefield Training and Effectiveness Environment (CBTEE) to
 > demonstrate use of the framework.
 
-S. Bringsjord, J. Taylor. Introducing Divine-Command Robot Ethics. In P.
-Lin, K. Abney, & G. Bekey, eds, [Robot Ethics: The Ethical and Social
-Implications of
-Robotics](http://mitpress.mit.edu/978-0-262-01666-7){.title}. MIT Press.
+S. Bringsjord, J. Taylor. Introducing Divine-Command Robot Ethics. In
+P.  Lin, K. Abney, & G. Bekey, eds, [Robot Ethics: The Ethical and
+Social Implications of
+Robotics](http://mitpress.mit.edu/978-0-262-01666-7). MIT Press.
 2012. ISBN 978-0-262-01666-7.
 
 > Perhaps it is generally agreed that robots on the battlefield,
@@ -390,7 +411,7 @@ September 2010.
 
 A. Shilliday, J. Taylor, M. Clark, S. Bringsjord. [Provability-Based
 Semantic Interoperability for Information Sharing and Joint
-Reasoning](http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/PBSIISJR.pdf){.title}.
+Reasoning](http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/PBSIISJR.pdf).
 In L. Obrst, T. Janssen & W. Ceusters, eds, [Ontologies and Semantic
 Technologies for
 Intelligence](http://www.booksonline.iospress.nl/Content/View.aspx?piid=17686),
@@ -467,7 +488,7 @@ Roboethics](http://www.roboethics.org/icra2009/), IEEE Press. 2009.
 
 S. Bringsjord, J. Taylor, A. Shilliday, M. Clark, and K. Arkoudas.
 [Slate: An Argument-Centered Intelligent Assistant to Human
-Reasoners](http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/CMNA08-Slate.pdf){.title}.
+Reasoners](http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/CMNA08-Slate.pdf).
 In Proceedings of [CMNA 08, 8th Workshop on Computational Models of
 Natural Argumentation](http://cmna.csc.liv.ac.uk/CMNA8/), held in
 conjunction with [ECAI 2008, 18th European Conference on Artificial
@@ -490,7 +511,7 @@ Patras](http://www.upatras.gr/index/index/lang/en), Patras, Greece. July
 S. Bringsjord, A. Shilliday, J. Taylor, D. Werner, M. Clark, E.
 Charpentier, and A. Bringsjord. [Toward Logic-Based Cognitively Robust
 Synthetic Characters in Digital
-Environments](http://kryten.mm.rpi.edu/sb_etal_agi2008.pdf){.title}.
+Environments](http://kryten.mm.rpi.edu/sb_etal_agi2008.pdf).
 [Artificial General Intelligence 2008 --- Proceedings of the First AGI
 Conference](http://www.agi-08.org/). In the series of [Frontiers in
 Artificial Intelligence and
@@ -518,7 +539,7 @@ Applications](http://www.iospress.nl/loadtop/load.php?isbn=faia),
 > matches human children his age.
 
 J. Taylor, S. Bringsjord. [Discovery Using Heterogeneous Combined
-Logics](http://www.aaai.org/Papers/Symposia/Fall/2008/FS-08-03/FS08-03-009.pdf){.title}.
+Logics](http://www.aaai.org/Papers/Symposia/Fall/2008/FS-08-03/FS08-03-009.pdf).
 In [Papers from the 2008 AAAI Fall Symposium on Automated Scientiﬁc
 Discovery](http://www.aaai.org/Library/Symposia/Fall/fs08-03.php), AAAI
 Press, Menlo Park, CA, 31--32. Technical Report FS-08-03.
@@ -538,7 +559,7 @@ Press, Menlo Park, CA, 31--32. Technical Report FS-08-03.
 A. Shilliday, J. Taylor, S. Bringsjord. [Toward Automated
 Provability-Based Semantic Interoperability between Ontologies for the
 Intelligence
-Community](http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-299/24.pdf){.title}.
+Community](http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-299/24.pdf).
 In [Proceedings of the Second International Ontology for the
 Intelligence Community
 (OIC-2007)](http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-299/),
@@ -581,7 +602,7 @@ Workshop on Ontologies and Information Systems for the Semantic Web
 
 S. Bringsjord, K. Arkoudas, D. Mukherjee, A. Shilliday, J. Taylor, M.
 Clark, and E. Bringsjord. [The Multi-Mind
-Effect](http://kryten.mm.rpi.edu/Bringsjord_MultiMind_ICAI07.pdf){.title}.
+Effect](http://kryten.mm.rpi.edu/Bringsjord_MultiMind_ICAI07.pdf).
 In Proceedings of the [2007 International Conference on Artificial
 Intelligence
 (ICAI)](http://www.worldacademyofscience.org/worldcomp07/ws/ICAI07),
@@ -600,7 +621,7 @@ Intelligence
 
 S. Bringsjord, K. Arkoudas, M. Clark, A. Shilliday, J. Taylor, B.
 Schimanski, and Y. Yang. [Reporting on Some Logic-Based Machine Reading
-Research](http://www.aaai.org/Papers/Symposia/Spring/2007/SS-07-06/SS07-06-005.pdf){.title}.
+Research](http://www.aaai.org/Papers/Symposia/Spring/2007/SS-07-06/SS07-06-005.pdf).
 In Proceedings of the [2007 AAAI Spring Symposium on Machine
 Reading](http://www.aaai.org/Library/Symposia/Spring/ss07-06.php). 2007.
 
@@ -613,7 +634,7 @@ Reading](http://www.aaai.org/Library/Symposia/Spring/ss07-06.php). 2007.
 
 S. Bringsjord, A. Shilliday, J. Taylor, P. Bello, Y. Yang, and K.
 Arkoudas. [Harnessing Intelligent Agent Technology to 'Superteach'
-Reasoning](http://ijttl.sicet.org/issue0602/Bringsjord%20Vol2%20Issue2.pdf){.title}.
+Reasoning](http://ijttl.sicet.org/issue0602/Bringsjord%20Vol2%20Issue2.pdf).
 [](http://kryten.mm.rpi.edu/Bringsjord.Vol2.Iss1.PubFormat.doc)
 [International Journal of Technology in Teaching and
 Learning](http://sicet.org/journals/ijttl/ijttl.html), 2(2):88--116.
@@ -655,14 +676,14 @@ This list is somewhat stale, and it's hard to keep track of all the
 smaller presentations that come up.
 
 J. Taylor, S. Bringsjord. [Discovery using Heterogeneous Combined
-Logics](http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/2008.11.08_DiscoveryUsingHeterogeneousCombinedLogics.pdf){.title}.
+Logics](http://www.cs.rpi.edu/~tayloj/DOCS/PUBS/2008.11.08_DiscoveryUsingHeterogeneousCombinedLogics.pdf).
 Presented at the [2008 AAAI Fall Symposium on Automated Scientific
 Discovery](http://www.cogsci.rpi.edu/conferences/AAAI/FallSymposium2008/).
 Arlington, Virginia. November 7--9, 2008. (Taylor presented.)
 
 S. Bringsjord, J. Taylor, A. Shilliday, M. Clark, and K. Arkoudas.
 [Slate: An Argument-Centered Intelligent Assistant to Human
-Reasoners](http://www.rpi.edu/~clarkm5/presentations/CMNA8extendedslides.pdf){.title}.
+Reasoners](http://www.rpi.edu/~clarkm5/presentations/CMNA8extendedslides.pdf).
 Presented at the 18th European Conference on Artificial Intelligence
 (ECAI 2008) in the 8th International Workshop on Computational Models of
 Natural Argument (CMNA 8). University of Patras, Patras, Greece. July
@@ -682,7 +703,7 @@ Web (ONISW) workshop, Auckland, New Zealand. November 5--9, 2007.
 
 S. Bringsjord, K. Arkoudas, D. Mukherjee (presenter), A. Shilliday, J.
 Taylor, M. Clark, E. Bringsjord. [The Multi-Mind
-Effect](http://kryten.mm.rpi.edu/PRES/ICAI07/ICAI_Pres_v06.pdf){.title}.
+Effect](http://kryten.mm.rpi.edu/PRES/ICAI07/ICAI_Pres_v06.pdf).
 [2007 International Conference on Artifical
 Intelligence](http://www.worldacademyofscience.org/worldcomp07/ws/ICAI07),
 in the [Extending Computational Cognitive Modeling to Issues of
@@ -692,13 +713,13 @@ June 28, 2007.
 
 S. Bringsjord, D. Werner, A. Shilliday, J. Taylor, M. Clark. [The
 Solomon QA System: Updates (Blue Sky PoC
-Project).](http://kryten.mm.rpi.edu/PRES/AQUAINT0507/Bringsjord_et_al_AQUAINT_051607.pdf){.title}
+Project).](http://kryten.mm.rpi.edu/PRES/AQUAINT0507/Bringsjord_et_al_AQUAINT_051607.pdf)
 Solomon site visit, Rensselaer Polytechnic Institute, Troy, NY. May
 2007.
 
 S. Bringsjord, K. Arkoudas, M. Clark, A. Shilliday, J. Taylor, B.
 Schimanski, Y. Yang. [Some Remarks on Logic-Based Machine Reading
-Research](http://kryten.mm.rpi.edu/PRES/AAAISSS07MR/RAIR_Lab_AAAISSS2007MR.pdf){.title}.
+Research](http://kryten.mm.rpi.edu/PRES/AAAISSS07MR/RAIR_Lab_AAAISSS2007MR.pdf).
 [2007 Association for the Advancement of Artificial Intelligence (AAAI)
 Spring Symposium on Machine
 Reading](http://www.cs.washington.edu/homes/pjallen/aaaiss07/index.htm),
@@ -715,7 +736,7 @@ Principal Investigator Meeting, Falls Church, VA. June 14, 2006.
 S. Bringsjord, A. Shilliday, J. Taylor, K. Arkoudas, S. Khemlani, E.
 Pratt, B. Schimanski, G. Mulley. [Artificial Intelligence and the Future
 of Intelligence Analysis and
-Wargaming](http://kryten.mm.rpi.edu/PRES/PNNL0805/sb_pnnlprez_080805.pdf){.title}.
+Wargaming](http://kryten.mm.rpi.edu/PRES/PNNL0805/sb_pnnlprez_080805.pdf).
 [Pacific Northwest National Laboratory](http://www.pnl.gov/), August 8,
 2005. (Bringsjord presented.)
 
@@ -754,7 +775,7 @@ S. Bringsjord, K. Arkoudas, Y. Yang, A. Shilliday, J. Taylor, M.
 Destefano. [New Architectures, Algorithms, and Designs that Lead to
 Implemented Machine Reasoning over Knowledge in Epistemic and Deontic
 Formats, in the Service of
-Wargaming](http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.mov){.title}.
+Wargaming](http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.mov).
 AFRL Rome, Febuary 23 2005. (Bringsjord and Arkoudas presented.)
 
 -   <http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.mov>
@@ -782,7 +803,7 @@ intelligence analysts and wargamers, McLean, VA. October 21, 2004.
 
 S. Bringsjord, A. Shilliday, J. Taylor, S. Khemlani, M. Destefano, K.
 Arkoudas. [The Status of
-Slate](http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.pdf){.title}.
+Slate](http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.pdf).
 ARDA Review, [University of Maryland](http://www.umd.edu/), College
 Park. April 5, 2004.
 
