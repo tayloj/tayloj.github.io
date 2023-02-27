@@ -19,7 +19,7 @@ lang: "en-US"
   Rensselaer Polytechnic Institute, Troy, NY  
   Thesis: [Provability-Based Semantic Interoperability Between
     Knowledgebases and Databases via Translation
-    Graphs](http://www.cs.rpi.edu/~tayloj/DOCS/jat.thesis.pdf)
+    Graphs](pbsi-via-tg.pdf)
 - B.S., Computer Science, Magna Cum Laude; Economics Minor, September 2001--May 2005  
   Rensselaer Polytechnic Institute, Troy, NY
 
