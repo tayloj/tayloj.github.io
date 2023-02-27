@@ -807,8 +807,8 @@ Slate](http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.pdf)
 ARDA Review, [University of Maryland](http://www.umd.edu/), College
 Park. April 5, 2004.
 
--   <http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.pdf>
--   <http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.key.tar.gz>
+- <http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.pdf>
+- <http://kryten.mm.rpi.edu/PRES/NIMDREV040505/rairl_nimdqreview_040505.key.tar.gz>
 
 S. Bringsjord, A. Shilliday, J. Taylor, J. Wodicka, M. Destefano. Status
 Update of RAIR Lab\'s NIMD/Sage R&D. ARDA review, San Diego, CA.
