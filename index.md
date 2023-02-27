@@ -256,7 +256,7 @@ in-house funding for over ten years.
   Metrics for Missions and
   Attacks](https://dl.acm.org/doi/abs/10.1145/2995272.2995282), MTD'16
 - [A Quantitative Framework for Moving Target Defense Effectiveness
-  Evaluation](https://dl.acm.org/doi/10.1145/2808475.2808476f), MTD'15
+  Evaluation](https://dl.acm.org/doi/10.1145/2808475.2808476), MTD'15
 - [Assessing effectiveness of cybersecurity
   technologies](https://patents.google.com/patent/WO2017116525A9/en),
   Patent
