@@ -1,8 +1,15 @@
-#!/bin/sh 
+#!/bin/sh
 
-> index.html \
-	pandoc index.md \
-	--to html \
-	--verbose \
-        --standalone
+
+for format in ${formats:-html docx} ; do
+
+    target="target/index.${format}"
+    mkdir -p $(dirname $target)
+
+    pandoc index.md \
+	   --to "${format}" \
+	   --standalone \
+	   --output "${target}"
+
+done
 
