@@ -193,13 +193,14 @@ programming assignments.
 
 - Programming Languages: Java, Common Lisp, Scheme, C, Bash, Python
 - Knowledge Representation: OWL (Web Ontology Language), RDF Schema
-  (RDFS), SPARQL, Description Logic, Predicate Calculus, First Order
+  (RDFS), SPARQL, Protege, Description Logic, Predicate Calculus, First Order
   Logic, Modal Logics, [IKRIS](http://nrrc.mitre.org/NRRC/ikris.htm)
   Knowledge Language
   ([IKL](http://www.ihmc.us/users/phayes/IKL/SPEC/SPEC.html)), [Common
-  Logic](http://cl.tamu.edu/)
+  Logic](http://cl.tamu.edu/), Semantic Web Rule Language (SWRL), Jena Rules,
+  Apache Jena/Fuseki
 - Tools, Software, Libraries: Eclipse, Git (CLI, GitLab, GitHub),
-  Emacs, Bash, VirtualBox API, VMware APIs, Java metaprogramming,
+  Emacs, Bash, VirtualBox API, VMware APIs, LispWorks, Java metaprogramming,
   OpenAPI, LaTeX, MS Office
 - Operating Systems: MS Windows, Unix (Linux, FreeBSD), OS X
 
@@ -269,6 +270,10 @@ intelligence community (IC) and students of logic, mathematics, and
 related disciplines.  Slate was also used as courseware within RPI's
 introduction and intermediate logic classes, and integrated with the
 [_Logic: A Modern Approach_](http://www.logicamodernapproach.com/).
+
+Early versions of Slate were developed in Macintosh Common Lisp (MCL)
+using OpenGL bindings.  Later versions of Slate were developed under
+LispWorks, using the CAPI UI layer.
 
 ## Publications
 
