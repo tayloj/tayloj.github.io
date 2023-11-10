@@ -25,7 +25,16 @@ lang: "en-US"
 
 ## Experience
 
-### Chief Scientist, 2022--present
+### Semantic Technologies Software Engineer, 5 Sep 2023--present
+
+CACI International, Inc.  
+Rome, NY  
+
+Architect, design, and develop knowledge-driven applications using 
+semantic technologies (including RDF, OWL, SPARQL) in support of 
+national defense, AI/ML research, and company needs.
+
+### Chief Scientist, 2022--15 Aug 2023
 
 Siege Technologies  
 Rome, NY
