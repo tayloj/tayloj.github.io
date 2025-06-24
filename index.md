@@ -105,7 +105,7 @@ translation rooted in category theory.
 
 Gained significant experience in proposal writing, especially for
 government and defense programs, as well as proper documentation
-procedures for the same, including adherance to technical report
+procedures for the same, including adherence to technical report
 guidelines.
 
 <!-- A primary developer of
@@ -134,7 +134,7 @@ including _Slate_.
 
 <!-- and [Solomon](http://www.cogsci.rpi.edu/solomon){.system}. -->
 
-### Graduate Teaching Asssistant, Fall 2006
+### Graduate Teaching Assistant, Fall 2006
 
 Department of Computer Science  
 Rensselaer Polytechnic Institute  
@@ -323,7 +323,7 @@ doi:[10.1145/2808475.2808476](http://dx.doi.org/10.1145/2808475.2808476).
 > successfully balance the potential security benefits of MTD
 > deployment against the potential productivity costs.
 
-N. S. Govindarajalulu, S. Bringsjord, J. Taylor, [Proof verification
+N. S. Govindarajulu, S. Bringsjord, J. Taylor, [Proof verification
 and proof discovery for
 relativity](http://dx.doi.org/10.1007/s11229-014-0424-3){.title}.
 Synthese, April 2014.
@@ -357,7 +357,7 @@ SPIE 8757, Cyber Sensing 2013. 2013.
 doi:[10.1117/12.2016122](http://dx.doi.org/10.1117/12.2016122).
 
 > Many approaches in software analysis, particularly dynamic malware
-> analyis, benefit greatly from the use of linked data and other
+> analysis, benefit greatly from the use of linked data and other
 > Semantic Web technology. In this paper, we describe AIS, Inc.'s
 > Semantic Extractor (SemEx) component from the Malware Analysis and
 > Attribution through Genetic Information (MAAGI) effort, funded under
@@ -454,7 +454,7 @@ Science](http://groups.uni-paderborn.de/hagengruber/pris08/).
 > representations can be productively reasoned over by humans and
 > machines; and that this reasoning can be used to produce
 > knowledge-based systems (KBSs). As such, KR&R is a discipline
-> conventionally regarded to range across parts of artiﬁcial
+> conventionally regarded to range across parts of artificial
 > intelligence (AI), computer science, and especially logic. This
 > standard view of KR&R's participating fields is correct --- but
 > dangerously incomplete. The view is incomplete because, as we explain
@@ -492,7 +492,7 @@ Roboethics](http://www.roboethics.org/icra2009/), IEEE Press. 2009.
 > to engineer ethically correct robots by giving them the capacity to
 > reason over, rather than merely in, logical systems (where logical
 > systems are used to formalize such things as ethical codes of conduct
-> for warﬁghting robots). This is to be accomplished by taking seriously
+> for warfighting robots). This is to be accomplished by taking seriously
 > Piaget's position that sophisticated human thinking exceeds even
 > abstract processes carried out in a logical system, and by exploiting
 > category theory to render in rigorous form, suitable for
@@ -541,11 +541,11 @@ Applications](http://www.iospress.nl/loadtop/load.php?isbn=faia),
 > characters and ignores the rich mental structures that are essential
 > for any truly realistic social environment. While this "deceptive"
 > tactic may be suitable so long as a human is in the driver's seat
-> compensating for the mental deﬁcit, truly convincing autonomous
+> compensating for the mental deficit, truly convincing autonomous
 > synthetic characters must possess genuine mental states, which can
 > only result from a formal theory of mind. We report here on our
 > attempt to invent part of such a theory, one that will enable
-> artiﬁcial agents to have and reason about the beliefs of others,
+> artificial agents to have and reason about the beliefs of others,
 > resulting in characters that can predict and manipulate the behavior
 > of even human players. Furthermore, we present the "embodiment" of our
 > recent successes: Eddie, a four year old child in Second Life who can
@@ -554,7 +554,7 @@ Applications](http://www.iospress.nl/loadtop/load.php?isbn=faia),
 
 J. Taylor, S. Bringsjord. [Discovery Using Heterogeneous Combined
 Logics](http://www.aaai.org/Papers/Symposia/Fall/2008/FS-08-03/FS08-03-009.pdf).
-In [Papers from the 2008 AAAI Fall Symposium on Automated Scientiﬁc
+In [Papers from the 2008 AAAI Fall Symposium on Automated Scientific
 Discovery](http://www.aaai.org/Library/Symposia/Fall/fs08-03.php), AAAI
 Press, Menlo Park, CA, 31--32. Technical Report FS-08-03.
 
@@ -675,7 +675,7 @@ doi:[10.1016/j.amc.2005.09.071](http://dx.doi/org/10.1016/j.amc.2005.09.071).
 > If the former, given the essence of hypercomputation, persons must in
 > some real way be capable of infinitary information processing. Using
 > as a springboard Gödel\'s little-known assertion that the human mind
-> has a power "converging to infinity", and as an anchoring propblem
+> has a power "converging to infinity", and as an anchoring problem
 > Rado\'s Turing-uncomputable "busy-beaver" (or Σ) function, we present
 > in this short paper a new argument that, in fact, human persons can
 > hypercompute. The argument is intended to be a formidable, not
@@ -790,7 +790,7 @@ Destefano. [New Architectures, Algorithms, and Designs that Lead to
 Implemented Machine Reasoning over Knowledge in Epistemic and Deontic
 Formats, in the Service of
 Wargaming](http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.mov).
-AFRL Rome, Febuary 23 2005. (Bringsjord and Arkoudas presented.)
+AFRL Rome, February 23 2005. (Bringsjord and Arkoudas presented.)
 
 -   <http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.mov>
 -   <http://kryten.mm.rpi.edu/PRES/AFRLUPDATE0205/afrl-rome.visit022305.tar>
@@ -839,7 +839,7 @@ Rome, NY
 
 Directed a mixed-age choir of handbell ringers of various musical
 backgrounds, aiming for three to four performances yearly during
-Sunday sevices.  Responsible for selecting music, instructing ringers
+Sunday services.  Responsible for selecting music, instructing ringers
 in handbell technique and general music education, scheduling and
 directing rehearsals.
 
@@ -858,7 +858,7 @@ accompaniment at nursing home services during First Baptist's services
 First Baptist Church  
 Rome, NY
 
-Prepare and set up for various sevices as needed, typically monthly.
+Prepare and set up for various services as needed, typically monthly.
 Attend board meetings, and assist as able.
 
 ### Sunday School Teacher, 2004--2005
