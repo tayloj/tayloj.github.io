@@ -39,13 +39,13 @@ national defense, AI/ML research, and company needs.
 Siege Technologies  
 Rome, NY
 
-Work alongside Siege's Senior Leadership Team to provide technical
-guidance for program execution, business development, and internal
-research and development. Primary author of Siege's technical blog,
-[Cyber Under
-Siege](https://www.siegetechnologies.com/cyber-under-siege/). Continued
-development of the Cyber Quantification Framework, and sustained
-growth of Siege's semantic technologies group.
+Work alongside Siege's Senior Leadership Team to provide technical guidance for
+program execution, business development, and internal research and development.
+Primary author of Siege's technical blog, [Cyber Under Siege][].  Continued
+development of the Cyber Quantification Framework, and sustained growth of
+Siege's semantic technologies group.
+
+[Cyber Under Siege]: https://www.siegetechnologies.com/cyber-under-siege
 
 ### Principal Software Engineer, 2020--2022
 
