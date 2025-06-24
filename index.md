@@ -25,10 +25,15 @@ lang: "en-US"
 
 ## Experience
 
-### Semantic Technologies Software Engineer, 5 Sep 2023--present
+### Principal Software Engineer, Cyber Operations R&D, Sep 2023--present
 
-CACI International, Inc.  
-Rome, NY  
+CACI International, Inc.
+Rome, NY
+
+Lead a team supporting the design and development of cyber quantification
+technologies, participate in business development, and internal research and
+development.  Interact with customers and stakeholders to direct and prioritize
+technical activities.
 
 Architect, design, and develop knowledge-driven applications using 
 semantic technologies (including RDF, OWL, SPARQL) in support of 
